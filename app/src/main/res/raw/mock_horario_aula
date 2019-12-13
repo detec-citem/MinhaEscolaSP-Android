@@ -1,0 +1,304 @@
+{
+    "Aulas": [
+        {
+            "CodigoMateria": 2700,
+            "NomeMateriaCompleto": "MATEMATICA",
+            "NomeMateriaAbreviado": "MATEMATICA",
+            "NomeProfessor": "DOMINGOS SOUSA SILVA",
+            "DataHoraInicio": "13:00",
+            "DataHoraFim": "13:50",
+            "NomeTurma": "6º ANO C TARDE",
+            "DiaSemana": "Segunda-Feira"
+        },
+        {
+            "CodigoMateria": 2700,
+            "NomeMateriaCompleto": "MATEMATICA",
+            "NomeMateriaAbreviado": "MATEMATICA",
+            "NomeProfessor": "DOMINGOS SOUSA SILVA",
+            "DataHoraInicio": "13:00",
+            "DataHoraFim": "13:50",
+            "NomeTurma": "6º ANO C TARDE",
+            "DiaSemana": "Terça-Feira"
+        },
+        {
+            "CodigoMateria": 2700,
+            "NomeMateriaCompleto": "MATEMATICA",
+            "NomeMateriaAbreviado": "MATEMATICA",
+            "NomeProfessor": "DOMINGOS SOUSA SILVA",
+            "DataHoraInicio": "13:50",
+            "DataHoraFim": "14:40",
+            "NomeTurma": "6º ANO C TARDE",
+            "DiaSemana": "Segunda-Feira"
+        },
+        {
+            "CodigoMateria": 2700,
+            "NomeMateriaCompleto": "MATEMATICA",
+            "NomeMateriaAbreviado": "MATEMATICA",
+            "NomeProfessor": "DOMINGOS SOUSA SILVA",
+            "DataHoraInicio": "13:50",
+            "DataHoraFim": "14:40",
+            "NomeTurma": "6º ANO C TARDE",
+            "DiaSemana": "Terça-Feira"
+        },
+        {
+            "CodigoMateria": 2700,
+            "NomeMateriaCompleto": "MATEMATICA",
+            "NomeMateriaAbreviado": "MATEMATICA",
+            "NomeProfessor": "DOMINGOS SOUSA SILVA",
+            "DataHoraInicio": "14:40",
+            "DataHoraFim": "15:30",
+            "NomeTurma": "6º ANO C TARDE",
+            "DiaSemana": "Sexta-Feira"
+        },
+        {
+            "CodigoMateria": 2700,
+            "NomeMateriaCompleto": "MATEMATICA",
+            "NomeMateriaAbreviado": "MATEMATICA",
+            "NomeProfessor": "DOMINGOS SOUSA SILVA",
+            "DataHoraInicio": "15:50",
+            "DataHoraFim": "16:40",
+            "NomeTurma": "6º ANO C TARDE",
+            "DiaSemana": "Sexta-Feira"
+        },
+        {
+            "CodigoMateria": 2500,
+            "NomeMateriaCompleto": "CIENCIAS FISICAS E BIOLOGICAS",
+            "NomeMateriaAbreviado": "CIEN. FIS. BIO",
+            "NomeProfessor": "MARTA ELIZA SELANI LUBITO ALVES",
+            "DataHoraInicio": "13:00",
+            "DataHoraFim": "13:50",
+            "NomeTurma": "6º ANO C TARDE",
+            "DiaSemana": "Quarta-Feira"
+        },
+        {
+            "CodigoMateria": 2500,
+            "NomeMateriaCompleto": "CIENCIAS FISICAS E BIOLOGICAS",
+            "NomeMateriaAbreviado": "CIEN. FIS. BIO",
+            "NomeProfessor": "MARTA ELIZA SELANI LUBITO ALVES",
+            "DataHoraInicio": "14:40",
+            "DataHoraFim": "15:30",
+            "NomeTurma": "6º ANO C TARDE",
+            "DiaSemana": "Quinta-Feira"
+        },
+        {
+            "CodigoMateria": 2500,
+            "NomeMateriaCompleto": "CIENCIAS FISICAS E BIOLOGICAS",
+            "NomeMateriaAbreviado": "CIEN. FIS. BIO",
+            "NomeProfessor": "MARTA ELIZA SELANI LUBITO ALVES",
+            "DataHoraInicio": "15:50",
+            "DataHoraFim": "16:40",
+            "NomeTurma": "6º ANO C TARDE",
+            "DiaSemana": "Quinta-Feira"
+        },
+        {
+            "CodigoMateria": 2500,
+            "NomeMateriaCompleto": "CIENCIAS FISICAS E BIOLOGICAS",
+            "NomeMateriaAbreviado": "CIEN. FIS. BIO",
+            "NomeProfessor": "MARTA ELIZA SELANI LUBITO ALVES",
+            "DataHoraInicio": "17:30",
+            "DataHoraFim": "18:20",
+            "NomeTurma": "6º ANO C TARDE",
+            "DiaSemana": "Terça-Feira"
+        },
+        {
+            "CodigoMateria": 2200,
+            "NomeMateriaCompleto": "HISTORIA",
+            "NomeMateriaAbreviado": "HISTORIA",
+            "NomeProfessor": "AILTON DA SILVA SANTANA",
+            "DataHoraInicio": "16:40",
+            "DataHoraFim": "17:30",
+            "NomeTurma": "6º ANO C TARDE",
+            "DiaSemana": "Quinta-Feira"
+        },
+        {
+            "CodigoMateria": 2200,
+            "NomeMateriaCompleto": "HISTORIA",
+            "NomeMateriaAbreviado": "HISTORIA",
+            "NomeProfessor": "AILTON DA SILVA SANTANA",
+            "DataHoraInicio": "16:40",
+            "DataHoraFim": "17:30",
+            "NomeTurma": "6º ANO C TARDE",
+            "DiaSemana": "Sexta-Feira"
+        },
+        {
+            "CodigoMateria": 2200,
+            "NomeMateriaCompleto": "HISTORIA",
+            "NomeMateriaAbreviado": "HISTORIA",
+            "NomeProfessor": "AILTON DA SILVA SANTANA",
+            "DataHoraInicio": "17:30",
+            "DataHoraFim": "18:20",
+            "NomeTurma": "6º ANO C TARDE",
+            "DiaSemana": "Quinta-Feira"
+        },
+        {
+            "CodigoMateria": 2200,
+            "NomeMateriaCompleto": "HISTORIA",
+            "NomeMateriaAbreviado": "HISTORIA",
+            "NomeProfessor": "AILTON DA SILVA SANTANA",
+            "DataHoraInicio": "17:30",
+            "DataHoraFim": "18:20",
+            "NomeTurma": "6º ANO C TARDE",
+            "DiaSemana": "Sexta-Feira"
+        },
+        {
+            "CodigoMateria": 2100,
+            "NomeMateriaCompleto": "GEOGRAFIA",
+            "NomeMateriaAbreviado": "GEOGRAFIA",
+            "NomeProfessor": "NEREU VAN LOON BODE DA COSTA DOURADO",
+            "DataHoraInicio": "14:40",
+            "DataHoraFim": "15:30",
+            "NomeTurma": "6º ANO C TARDE",
+            "DiaSemana": "Terça-Feira"
+        },
+        {
+            "CodigoMateria": 2100,
+            "NomeMateriaCompleto": "GEOGRAFIA",
+            "NomeMateriaAbreviado": "GEOGRAFIA",
+            "NomeProfessor": "NEREU VAN LOON BODE DA COSTA DOURADO",
+            "DataHoraInicio": "15:50",
+            "DataHoraFim": "16:40",
+            "NomeTurma": "6º ANO C TARDE",
+            "DiaSemana": "Terça-Feira"
+        },
+        {
+            "CodigoMateria": 2100,
+            "NomeMateriaCompleto": "GEOGRAFIA",
+            "NomeMateriaAbreviado": "GEOGRAFIA",
+            "NomeProfessor": "NEREU VAN LOON BODE DA COSTA DOURADO",
+            "DataHoraInicio": "16:40",
+            "DataHoraFim": "17:30",
+            "NomeTurma": "6º ANO C TARDE",
+            "DiaSemana": "Quarta-Feira"
+        },
+        {
+            "CodigoMateria": 2100,
+            "NomeMateriaCompleto": "GEOGRAFIA",
+            "NomeMateriaAbreviado": "GEOGRAFIA",
+            "NomeProfessor": "NEREU VAN LOON BODE DA COSTA DOURADO",
+            "DataHoraInicio": "17:30",
+            "DataHoraFim": "18:20",
+            "NomeTurma": "6º ANO C TARDE",
+            "DiaSemana": "Quarta-Feira"
+        },
+        {
+            "CodigoMateria": 1900,
+            "NomeMateriaCompleto": "EDUCACAO FISICA",
+            "NomeMateriaAbreviado": "ED. FISICA",
+            "NomeProfessor": "SUZI RIBEIRO DA COSTA",
+            "DataHoraInicio": "13:50",
+            "DataHoraFim": "14:40",
+            "NomeTurma": "6º ANO C TARDE",
+            "DiaSemana": "Quarta-Feira"
+        },
+        {
+            "CodigoMateria": 1900,
+            "NomeMateriaCompleto": "EDUCACAO FISICA",
+            "NomeMateriaAbreviado": "ED. FISICA",
+            "NomeProfessor": "SUZI RIBEIRO DA COSTA",
+            "DataHoraInicio": "15:50",
+            "DataHoraFim": "16:40",
+            "NomeTurma": "6º ANO C TARDE",
+            "DiaSemana": "Segunda-Feira"
+        },
+        {
+            "CodigoMateria": 1813,
+            "NomeMateriaCompleto": "ARTE",
+            "NomeMateriaAbreviado": "ARTE",
+            "NomeProfessor": "LEANDRO GARCIA VIEIRA",
+            "DataHoraInicio": "14:40",
+            "DataHoraFim": "15:30",
+            "NomeTurma": "6º ANO C TARDE",
+            "DiaSemana": "Segunda-Feira"
+        },
+        {
+            "CodigoMateria": 1813,
+            "NomeMateriaCompleto": "ARTE",
+            "NomeMateriaAbreviado": "ARTE",
+            "NomeProfessor": "LEANDRO GARCIA VIEIRA",
+            "DataHoraInicio": "16:40",
+            "DataHoraFim": "17:30",
+            "NomeTurma": "6º ANO C TARDE",
+            "DiaSemana": "Terça-Feira"
+        },
+        {
+            "CodigoMateria": 1400,
+            "NomeMateriaCompleto": "LINGUA ESTRANGEIRA INGLES",
+            "NomeMateriaAbreviado": "L. EST. INGLES",
+            "NomeProfessor": "MARCIA IZILDA ARDITO",
+            "DataHoraInicio": "13:00",
+            "DataHoraFim": "13:50",
+            "NomeTurma": "6º ANO C TARDE",
+            "DiaSemana": "Quinta-Feira"
+        },
+        {
+            "CodigoMateria": 1400,
+            "NomeMateriaCompleto": "LINGUA ESTRANGEIRA INGLES",
+            "NomeMateriaAbreviado": "L. EST. INGLES",
+            "NomeProfessor": "MARCIA IZILDA ARDITO",
+            "DataHoraInicio": "13:00",
+            "DataHoraFim": "13:50",
+            "NomeTurma": "6º ANO C TARDE",
+            "DiaSemana": "Sexta-Feira"
+        },
+        {
+            "CodigoMateria": 1100,
+            "NomeMateriaCompleto": "LINGUA PORTUGUESA",
+            "NomeMateriaAbreviado": "LING. PORTUGUESA",
+            "NomeProfessor": "CRISTIANE WAQUIM ANSARAH",
+            "DataHoraInicio": "13:50",
+            "DataHoraFim": "14:40",
+            "NomeTurma": "6º ANO C TARDE",
+            "DiaSemana": "Quinta-Feira"
+        },
+        {
+            "CodigoMateria": 1100,
+            "NomeMateriaCompleto": "LINGUA PORTUGUESA",
+            "NomeMateriaAbreviado": "LING. PORTUGUESA",
+            "NomeProfessor": "CRISTIANE WAQUIM ANSARAH",
+            "DataHoraInicio": "13:50",
+            "DataHoraFim": "14:40",
+            "NomeTurma": "6º ANO C TARDE",
+            "DiaSemana": "Sexta-Feira"
+        },
+        {
+            "CodigoMateria": 1100,
+            "NomeMateriaCompleto": "LINGUA PORTUGUESA",
+            "NomeMateriaAbreviado": "LING. PORTUGUESA",
+            "NomeProfessor": "CRISTIANE WAQUIM ANSARAH",
+            "DataHoraInicio": "14:40",
+            "DataHoraFim": "15:30",
+            "NomeTurma": "6º ANO C TARDE",
+            "DiaSemana": "Quarta-Feira"
+        },
+        {
+            "CodigoMateria": 1100,
+            "NomeMateriaCompleto": "LINGUA PORTUGUESA",
+            "NomeMateriaAbreviado": "LING. PORTUGUESA",
+            "NomeProfessor": "CRISTIANE WAQUIM ANSARAH",
+            "DataHoraInicio": "15:50",
+            "DataHoraFim": "16:40",
+            "NomeTurma": "6º ANO C TARDE",
+            "DiaSemana": "Quarta-Feira"
+        },
+        {
+            "CodigoMateria": 1100,
+            "NomeMateriaCompleto": "LINGUA PORTUGUESA",
+            "NomeMateriaAbreviado": "LING. PORTUGUESA",
+            "NomeProfessor": "CRISTIANE WAQUIM ANSARAH",
+            "DataHoraInicio": "16:40",
+            "DataHoraFim": "17:30",
+            "NomeTurma": "6º ANO C TARDE",
+            "DiaSemana": "Segunda-Feira"
+        },
+        {
+            "CodigoMateria": 1100,
+            "NomeMateriaCompleto": "LINGUA PORTUGUESA",
+            "NomeMateriaAbreviado": "LING. PORTUGUESA",
+            "NomeProfessor": "CRISTIANE WAQUIM ANSARAH",
+            "DataHoraInicio": "17:30",
+            "DataHoraFim": "18:20",
+            "NomeTurma": "6º ANO C TARDE",
+            "DiaSemana": "Segunda-Feira"
+        }
+    ]
+}

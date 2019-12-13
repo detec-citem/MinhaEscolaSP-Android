@@ -1,0 +1,449 @@
+[
+    {
+        "Bimestre": "1",
+        "DataInicio": "01/02/2019",
+        "DataFim": "12/04/2019",
+        "calendario": [
+            {
+                "Mes": 2,
+                "DiasEventos": [
+                    {
+                        "Dia": 1,
+                        "Letivo": true,
+                        "NomeEvento": "L",
+                        "DescricaoEvento": "LETIVO",
+                        "Disciplina": null
+                    },
+                    {
+                        "Dia": 4,
+                        "Letivo": true,
+                        "NomeEvento": "L",
+                        "DescricaoEvento": "LETIVO",
+                        "Disciplina": null
+                    },
+                    {
+                        "Dia": 12,
+                        "Letivo": true,
+                        "NomeEvento": "APM",
+                        "DescricaoEvento": "ELEIÇÃO DA ASSOCIAÇÃO DE PAIS E MESTRES - APM",
+                        "Disciplina": null
+                    },
+                    {
+                        "Dia": 12,
+                        "Letivo": true,
+                        "NomeEvento": "CES",
+                        "DescricaoEvento": "ELEIÇÃO DO CONSELHO DE ESCOLA ",
+                        "Disciplina": null
+                    },
+                    {
+                        "Dia": 12,
+                        "Letivo": true,
+                        "NomeEvento": "RPR",
+                        "DescricaoEvento": "REUNIÃO DE PAIS/RESPONSÁVEIS ",
+                        "Disciplina": null
+                    }
+                ]
+            },
+            {
+                "Mes": 3,
+                "DiasEventos": [
+                    {
+                        "Dia": 1,
+                        "Letivo": true,
+                        "NomeEvento": "L",
+                        "DescricaoEvento": "LETIVO",
+                        "Disciplina": null
+                    },
+                    {
+                        "Dia": 4,
+                        "Letivo": false,
+                        "NomeEvento": "DEC",
+                        "DescricaoEvento": "SUSPENSÃO DO EXP. DEC. Nº 64.112",
+                        "Disciplina": null
+                    },
+                    {
+                        "Dia": 5,
+                        "Letivo": false,
+                        "NomeEvento": "FN",
+                        "DescricaoEvento": "FERIADO NACIONAL ",
+                        "Disciplina": null
+                    },
+                    {
+                        "Dia": 6,
+                        "Letivo": true,
+                        "NomeEvento": "PL",
+                        "DescricaoEvento": "PLANEJAMENTO",
+                        "Disciplina": null
+                    },
+                    {
+                        "Dia": 7,
+                        "Letivo": true,
+                        "NomeEvento": "PL",
+                        "DescricaoEvento": "PLANEJAMENTO",
+                        "Disciplina": null
+                    },
+                    {
+                        "Dia": 8,
+                        "Letivo": true,
+                        "NomeEvento": "PL",
+                        "DescricaoEvento": "PLANEJAMENTO",
+                        "Disciplina": null
+                    },
+                    {
+                        "Dia": 14,
+                        "Letivo": true,
+                        "NomeEvento": "GRE",
+                        "DescricaoEvento": "ELEIÇÃO DO GRÊMIO ESTUDANTIL",
+                        "Disciplina": null
+                    },
+                    {
+                        "Dia": 27,
+                        "Letivo": true,
+                        "NomeEvento": "RPM",
+                        "DescricaoEvento": "REUNIÃO DA APM ",
+                        "Disciplina": null
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Bimestre": "2",
+        "DataInicio": "15/04/2019",
+        "DataFim": "27/06/2019",
+        "calendario": [
+            {
+                "Mes": 4,
+                "DiasEventos": [
+                    {
+                        "Dia": 16,
+                        "Letivo": true,
+                        "NomeEvento": "CCN",
+                        "DescricaoEvento": "CONSELHO CLASSE SÉRIE/TERMO",
+                        "Disciplina": null
+                    },
+                    {
+                        "Dia": 17,
+                        "Letivo": true,
+                        "NomeEvento": "CCN",
+                        "DescricaoEvento": "CONSELHO CLASSE SÉRIE/TERMO",
+                        "Disciplina": null
+                    },
+                    {
+                        "Dia": 19,
+                        "Letivo": false,
+                        "NomeEvento": "FN",
+                        "DescricaoEvento": "FERIADO NACIONAL ",
+                        "Disciplina": null
+                    },
+                    {
+                        "Dia": 21,
+                        "Letivo": false,
+                        "NomeEvento": "FN",
+                        "DescricaoEvento": "FERIADO NACIONAL ",
+                        "Disciplina": null
+                    },
+                    {
+                        "Dia": 24,
+                        "Letivo": true,
+                        "NomeEvento": "RPR",
+                        "DescricaoEvento": "REUNIÃO DE PAIS/RESPONSÁVEIS ",
+                        "Disciplina": null
+                    },
+                    {
+                        "Dia": 25,
+                        "Letivo": true,
+                        "NomeEvento": "RPM",
+                        "DescricaoEvento": "REUNIÃO DA APM ",
+                        "Disciplina": null
+                    }
+                ]
+            },
+            {
+                "Mes": 5,
+                "DiasEventos": [
+                    {
+                        "Dia": 1,
+                        "Letivo": false,
+                        "NomeEvento": "FN",
+                        "DescricaoEvento": "FERIADO NACIONAL ",
+                        "Disciplina": null
+                    },
+                    {
+                        "Dia": 29,
+                        "Letivo": true,
+                        "NomeEvento": "RPM",
+                        "DescricaoEvento": "REUNIÃO DA APM ",
+                        "Disciplina": null
+                    },
+                    {
+                        "Dia": 29,
+                        "Letivo": true,
+                        "NomeEvento": "RCE",
+                        "DescricaoEvento": "REUNIÃO DO CONSELHO DE ESCOLA",
+                        "Disciplina": null
+                    }
+                ]
+            },
+            {
+                "Mes": 6,
+                "DiasEventos": [
+                    {
+                        "Dia": 15,
+                        "Letivo": true,
+                        "NomeEvento": "L",
+                        "DescricaoEvento": "LETIVO",
+                        "Disciplina": null
+                    },
+                    {
+                        "Dia": 20,
+                        "Letivo": false,
+                        "NomeEvento": "FN",
+                        "DescricaoEvento": "FERIADO NACIONAL ",
+                        "Disciplina": null
+                    },
+                    {
+                        "Dia": 26,
+                        "Letivo": true,
+                        "NomeEvento": "CCN",
+                        "DescricaoEvento": "CONSELHO CLASSE SÉRIE/TERMO",
+                        "Disciplina": null
+                    },
+                    {
+                        "Dia": 26,
+                        "Letivo": false,
+                        "NomeEvento": "RPM",
+                        "DescricaoEvento": "REUNIÃO DA APM ",
+                        "Disciplina": null
+                    },
+                    {
+                        "Dia": 27,
+                        "Letivo": true,
+                        "NomeEvento": "CCN",
+                        "DescricaoEvento": "CONSELHO CLASSE SÉRIE/TERMO",
+                        "Disciplina": null
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Bimestre": "3",
+        "DataInicio": "29/07/2019",
+        "DataFim": "30/09/2019",
+        "calendario": [
+            {
+                "Mes": 7,
+                "DiasEventos": [
+                    {
+                        "Dia": 29,
+                        "Letivo": true,
+                        "NomeEvento": "REP",
+                        "DescricaoEvento": "REPLANEJAMENTO ",
+                        "Disciplina": null
+                    },
+                    {
+                        "Dia": 30,
+                        "Letivo": true,
+                        "NomeEvento": "REP",
+                        "DescricaoEvento": "REPLANEJAMENTO ",
+                        "Disciplina": null
+                    }
+                ]
+            },
+            {
+                "Mes": 8,
+                "DiasEventos": [
+                    {
+                        "Dia": 2,
+                        "Letivo": true,
+                        "NomeEvento": "RPR",
+                        "DescricaoEvento": "REUNIÃO DE PAIS/RESPONSÁVEIS ",
+                        "Disciplina": null
+                    },
+                    {
+                        "Dia": 28,
+                        "Letivo": true,
+                        "NomeEvento": "RCE",
+                        "DescricaoEvento": "REUNIÃO DO CONSELHO DE ESCOLA",
+                        "Disciplina": null
+                    },
+                    {
+                        "Dia": 28,
+                        "Letivo": true,
+                        "NomeEvento": "RPM",
+                        "DescricaoEvento": "REUNIÃO DA APM ",
+                        "Disciplina": null
+                    },
+                    {
+                        "Dia": 30,
+                        "Letivo": true,
+                        "NomeEvento": "L",
+                        "DescricaoEvento": "LETIVO",
+                        "Disciplina": null
+                    }
+                ]
+            },
+            {
+                "Mes": 9,
+                "DiasEventos": [
+                    {
+                        "Dia": 7,
+                        "Letivo": false,
+                        "NomeEvento": "FN",
+                        "DescricaoEvento": "FERIADO NACIONAL ",
+                        "Disciplina": null
+                    },
+                    {
+                        "Dia": 14,
+                        "Letivo": true,
+                        "NomeEvento": "L",
+                        "DescricaoEvento": "LETIVO",
+                        "Disciplina": null
+                    },
+                    {
+                        "Dia": 25,
+                        "Letivo": true,
+                        "NomeEvento": "RPM",
+                        "DescricaoEvento": "REUNIÃO DA APM ",
+                        "Disciplina": null
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Bimestre": "4",
+        "DataInicio": "01/10/2019",
+        "DataFim": "16/12/2019",
+        "calendario": [
+            {
+                "Mes": 10,
+                "DiasEventos": [
+                    {
+                        "Dia": 1,
+                        "Letivo": true,
+                        "NomeEvento": "CCN",
+                        "DescricaoEvento": "CONSELHO CLASSE SÉRIE/TERMO",
+                        "Disciplina": null
+                    },
+                    {
+                        "Dia": 2,
+                        "Letivo": true,
+                        "NomeEvento": "CCN",
+                        "DescricaoEvento": "CONSELHO CLASSE SÉRIE/TERMO",
+                        "Disciplina": null
+                    },
+                    {
+                        "Dia": 9,
+                        "Letivo": true,
+                        "NomeEvento": "RPR",
+                        "DescricaoEvento": "REUNIÃO DE PAIS/RESPONSÁVEIS ",
+                        "Disciplina": null
+                    },
+                    {
+                        "Dia": 12,
+                        "Letivo": false,
+                        "NomeEvento": "FN",
+                        "DescricaoEvento": "FERIADO NACIONAL ",
+                        "Disciplina": null
+                    },
+                    {
+                        "Dia": 15,
+                        "Letivo": false,
+                        "NomeEvento": "DNL",
+                        "DescricaoEvento": "DIA NÃO LETIVO (CEL) ",
+                        "Disciplina": null
+                    },
+                    {
+                        "Dia": 30,
+                        "Letivo": true,
+                        "NomeEvento": "RPM",
+                        "DescricaoEvento": "REUNIÃO DA APM ",
+                        "Disciplina": null
+                    }
+                ]
+            },
+            {
+                "Mes": 11,
+                "DiasEventos": [
+                    {
+                        "Dia": 2,
+                        "Letivo": false,
+                        "NomeEvento": "FN",
+                        "DescricaoEvento": "FERIADO NACIONAL ",
+                        "Disciplina": null
+                    },
+                    {
+                        "Dia": 15,
+                        "Letivo": false,
+                        "NomeEvento": "FN",
+                        "DescricaoEvento": "FERIADO NACIONAL ",
+                        "Disciplina": null
+                    },
+                    {
+                        "Dia": 20,
+                        "Letivo": false,
+                        "NomeEvento": "FM",
+                        "DescricaoEvento": "FERIADO MUNICIPAL ",
+                        "Disciplina": null
+                    },
+                    {
+                        "Dia": 27,
+                        "Letivo": true,
+                        "NomeEvento": "RPM",
+                        "DescricaoEvento": "REUNIÃO DA APM ",
+                        "Disciplina": null
+                    },
+                    {
+                        "Dia": 27,
+                        "Letivo": true,
+                        "NomeEvento": "RCE",
+                        "DescricaoEvento": "REUNIÃO DO CONSELHO DE ESCOLA",
+                        "Disciplina": null
+                    }
+                ]
+            },
+            {
+                "Mes": 12,
+                "DiasEventos": [
+                    {
+                        "Dia": 4,
+                        "Letivo": true,
+                        "NomeEvento": "RPM",
+                        "DescricaoEvento": "REUNIÃO DA APM ",
+                        "Disciplina": null
+                    },
+                    {
+                        "Dia": 11,
+                        "Letivo": true,
+                        "NomeEvento": "CCN",
+                        "DescricaoEvento": "CONSELHO CLASSE SÉRIE/TERMO",
+                        "Disciplina": null
+                    },
+                    {
+                        "Dia": 12,
+                        "Letivo": true,
+                        "NomeEvento": "CCN",
+                        "DescricaoEvento": "CONSELHO CLASSE SÉRIE/TERMO",
+                        "Disciplina": null
+                    },
+                    {
+                        "Dia": 13,
+                        "Letivo": true,
+                        "NomeEvento": "L",
+                        "DescricaoEvento": "LETIVO",
+                        "Disciplina": null
+                    },
+                    {
+                        "Dia": 16,
+                        "Letivo": true,
+                        "NomeEvento": "RPR",
+                        "DescricaoEvento": "REUNIÃO DE PAIS/RESPONSÁVEIS ",
+                        "Disciplina": null
+                    }
+                ]
+            }
+        ]
+    }
+]

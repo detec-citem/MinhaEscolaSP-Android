@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="5dp"
+    android:padding="5dp">
+
+    <LinearLayout
+        android:id="@+id/dialog_layout_aluno"
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        android:orientation="horizontal"
+        android:layout_marginLeft="5dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Aluno:"
+            android:textSize="19sp"
+            android:layout_marginRight="6dp"
+            android:textColor="@color/cinza"
+            android:textStyle="bold"
+            android:layout_gravity="center_vertical"/>
+
+        <Spinner
+            android:id="@+id/dialog_spn_aluno"
+            android:layout_width="match_parent"
+            android:layout_height="90dp"
+            android:spinnerMode="dialog"
+            android:layout_marginRight="10dp"
+            android:layout_marginLeft="10dp"
+            android:textAlignment="center"
+            android:layout_gravity="center_vertical">
+
+        </Spinner>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/dialog_layout_turma"
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        android:orientation="horizontal"
+        android:layout_marginLeft="5dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Turma:"
+            android:textSize="19sp"
+            android:layout_marginRight="6dp"
+            android:textColor="@color/cinza"
+            android:textStyle="bold"
+            android:layout_gravity="center_vertical"/>
+
+        <Spinner
+            android:id="@+id/dialog_spn_turma"
+            android:layout_width="match_parent"
+            android:spinnerMode="dialog"
+            android:layout_height="90dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginLeft="5dp"
+            android:textAlignment="center"
+            android:layout_gravity="center_vertical">
+
+        </Spinner>
+
+    </LinearLayout>
+
+</LinearLayout>

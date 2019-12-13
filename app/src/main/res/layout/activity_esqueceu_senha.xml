@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="br.gov.sp.educacao.minhaescola.view.EsqueceuSenhaActivity"
+    android:background="@drawable/background1">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <Button
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_margin="8dp"
+            android:onClick="voltarLogin"
+            android:background="@drawable/ic_back"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="20dp"
+            android:textColor="@color/colorWhite"
+            android:textAlignment="center"
+            android:textSize="23sp"
+            android:text="@string/esqueceu_senha_texto"/>
+
+        <ImageView
+            android:layout_width="300dp"
+            android:layout_height="350dp"
+            android:layout_marginTop="20dp"
+            android:layout_gravity="center"
+            android:background="@drawable/esqueceu_senha"/>
+
+        <Button
+            android:layout_width="140dp"
+            android:layout_height="50dp"
+            android:text="abrir sed"
+            android:layout_gravity="center"
+            android:layout_marginTop="20dp"
+            android:textColor="@color/colorWhite"
+            android:textSize="20dp"
+            android:onClick="abrirSed"
+            android:background="@drawable/shape_quadrado_borda"/>
+
+    </LinearLayout>
+
+</ScrollView>

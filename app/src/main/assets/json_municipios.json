@@ -1,0 +1,2582 @@
+[
+  {
+    "CODIGODNE": 9668,
+    "MUNICIPIO": "SAO PAULO"
+  },
+  {
+    "CODIGODNE": 8853,
+    "MUNICIPIO": "ADAMANTINA"
+  },
+  {
+    "CODIGODNE": 8854,
+    "MUNICIPIO": "ADOLFO"
+  },
+  {
+    "CODIGODNE": 8857,
+    "MUNICIPIO": "AGUAI"
+  },
+  {
+    "CODIGODNE": 8859,
+    "MUNICIPIO": "AGUAS DE LINDOIA"
+  },
+  {
+    "CODIGODNE": 8858,
+    "MUNICIPIO": "AGUAS DA PRATA"
+  },
+  {
+    "CODIGODNE": 8861,
+    "MUNICIPIO": "AGUAS DE SAO PEDRO"
+  },
+  {
+    "CODIGODNE": 8862,
+    "MUNICIPIO": "AGUDOS"
+  },
+  {
+    "CODIGODNE": 8870,
+    "MUNICIPIO": "ALFREDO MARCONDES"
+  },
+  {
+    "CODIGODNE": 8871,
+    "MUNICIPIO": "ALTAIR"
+  },
+  {
+    "CODIGODNE": 8872,
+    "MUNICIPIO": "ALTINOPOLIS"
+  },
+  {
+    "CODIGODNE": 8873,
+    "MUNICIPIO": "ALTO ALEGRE"
+  },
+  {
+    "CODIGODNE": 8876,
+    "MUNICIPIO": "ALVARES FLORENCE"
+  },
+  {
+    "CODIGODNE": 8877,
+    "MUNICIPIO": "ALVARES MACHADO"
+  },
+  {
+    "CODIGODNE": 8878,
+    "MUNICIPIO": "ALVARO DE CARVALHO"
+  },
+  {
+    "CODIGODNE": 8879,
+    "MUNICIPIO": "ALVINLANDIA"
+  },
+  {
+    "CODIGODNE": 8883,
+    "MUNICIPIO": "AMERICANA"
+  },
+  {
+    "CODIGODNE": 8884,
+    "MUNICIPIO": "AMERICO BRASILIENSE"
+  },
+  {
+    "CODIGODNE": 8885,
+    "MUNICIPIO": "AMERICO DE CAMPOS"
+  },
+  {
+    "CODIGODNE": 8886,
+    "MUNICIPIO": "AMPARO"
+  },
+  {
+    "CODIGODNE": 8888,
+    "MUNICIPIO": "ANALANDIA"
+  },
+  {
+    "CODIGODNE": 8891,
+    "MUNICIPIO": "ANDRADINA"
+  },
+  {
+    "CODIGODNE": 8892,
+    "MUNICIPIO": "ANGATUBA"
+  },
+  {
+    "CODIGODNE": 8893,
+    "MUNICIPIO": "ANHEMBI"
+  },
+  {
+    "CODIGODNE": 8894,
+    "MUNICIPIO": "ANHUMAS"
+  },
+  {
+    "CODIGODNE": 8896,
+    "MUNICIPIO": "APARECIDA"
+  },
+  {
+    "CODIGODNE": 8897,
+    "MUNICIPIO": "APARECIDA D'OESTE"
+  },
+  {
+    "CODIGODNE": 8901,
+    "MUNICIPIO": "APIAI"
+  },
+  {
+    "CODIGODNE": 8907,
+    "MUNICIPIO": "ARACATUBA"
+  },
+  {
+    "CODIGODNE": 8908,
+    "MUNICIPIO": "ARACOIABA DA SERRA"
+  },
+  {
+    "CODIGODNE": 8909,
+    "MUNICIPIO": "ARAMINA"
+  },
+  {
+    "CODIGODNE": 8910,
+    "MUNICIPIO": "ARANDU"
+  },
+  {
+    "CODIGODNE": 8912,
+    "MUNICIPIO": "ARARAQUARA"
+  },
+  {
+    "CODIGODNE": 8913,
+    "MUNICIPIO": "ARARAS"
+  },
+  {
+    "CODIGODNE": 8917,
+    "MUNICIPIO": "AREALVA"
+  },
+  {
+    "CODIGODNE": 8918,
+    "MUNICIPIO": "AREIAS"
+  },
+  {
+    "CODIGODNE": 8919,
+    "MUNICIPIO": "AREIOPOLIS"
+  },
+  {
+    "CODIGODNE": 8920,
+    "MUNICIPIO": "ARIRANHA"
+  },
+  {
+    "CODIGODNE": 8923,
+    "MUNICIPIO": "ARTUR NOGUEIRA"
+  },
+  {
+    "CODIGODNE": 8924,
+    "MUNICIPIO": "ARUJA"
+  },
+  {
+    "CODIGODNE": 8926,
+    "MUNICIPIO": "ASSIS"
+  },
+  {
+    "CODIGODNE": 8928,
+    "MUNICIPIO": "ATIBAIA"
+  },
+  {
+    "CODIGODNE": 8930,
+    "MUNICIPIO": "AURIFLAMA"
+  },
+  {
+    "CODIGODNE": 8931,
+    "MUNICIPIO": "AVAI"
+  },
+  {
+    "CODIGODNE": 8932,
+    "MUNICIPIO": "AVANHANDAVA"
+  },
+  {
+    "CODIGODNE": 8933,
+    "MUNICIPIO": "AVARE"
+  },
+  {
+    "CODIGODNE": 8937,
+    "MUNICIPIO": "BADY BASSITT"
+  },
+  {
+    "CODIGODNE": 8940,
+    "MUNICIPIO": "BALBINOS"
+  },
+  {
+    "CODIGODNE": 8941,
+    "MUNICIPIO": "BALSAMO"
+  },
+  {
+    "CODIGODNE": 8942,
+    "MUNICIPIO": "BANANAL"
+  },
+  {
+    "CODIGODNE": 8945,
+    "MUNICIPIO": "BARAO DE ANTONINA"
+  },
+  {
+    "CODIGODNE": 8947,
+    "MUNICIPIO": "BARBOSA"
+  },
+  {
+    "CODIGODNE": 8948,
+    "MUNICIPIO": "BARIRI"
+  },
+  {
+    "CODIGODNE": 8949,
+    "MUNICIPIO": "BARRA BONITA"
+  },
+  {
+    "CODIGODNE": 8951,
+    "MUNICIPIO": "BARRA DO TURVO"
+  },
+  {
+    "CODIGODNE": 8954,
+    "MUNICIPIO": "BARRETOS"
+  },
+  {
+    "CODIGODNE": 8955,
+    "MUNICIPIO": "BARRINHA"
+  },
+  {
+    "CODIGODNE": 8956,
+    "MUNICIPIO": "BARUERI"
+  },
+  {
+    "CODIGODNE": 8957,
+    "MUNICIPIO": "BASTOS"
+  },
+  {
+    "CODIGODNE": 8958,
+    "MUNICIPIO": "BATATAIS"
+  },
+  {
+    "CODIGODNE": 8961,
+    "MUNICIPIO": "BAURU"
+  },
+  {
+    "CODIGODNE": 8962,
+    "MUNICIPIO": "BEBEDOURO"
+  },
+  {
+    "CODIGODNE": 8965,
+    "MUNICIPIO": "BENTO DE ABREU"
+  },
+  {
+    "CODIGODNE": 8966,
+    "MUNICIPIO": "BERNARDINO DE CAMPOS"
+  },
+  {
+    "CODIGODNE": 8968,
+    "MUNICIPIO": "BILAC"
+  },
+  {
+    "CODIGODNE": 8969,
+    "MUNICIPIO": "BIRIGUI"
+  },
+  {
+    "CODIGODNE": 8970,
+    "MUNICIPIO": "BIRITIBA-MIRIM"
+  },
+  {
+    "CODIGODNE": 8972,
+    "MUNICIPIO": "BOA ESPERANCA DO SUL"
+  },
+  {
+    "CODIGODNE": 8975,
+    "MUNICIPIO": "BOCAINA"
+  },
+  {
+    "CODIGODNE": 8976,
+    "MUNICIPIO": "BOFETE"
+  },
+  {
+    "CODIGODNE": 8977,
+    "MUNICIPIO": "BOITUVA"
+  },
+  {
+    "CODIGODNE": 8979,
+    "MUNICIPIO": "BOM JESUS DOS PERDOES"
+  },
+  {
+    "CODIGODNE": 8983,
+    "MUNICIPIO": "BORA"
+  },
+  {
+    "CODIGODNE": 8984,
+    "MUNICIPIO": "BORACEIA"
+  },
+  {
+    "CODIGODNE": 8985,
+    "MUNICIPIO": "BORBOREMA"
+  },
+  {
+    "CODIGODNE": 8989,
+    "MUNICIPIO": "BOTUCATU"
+  },
+  {
+    "CODIGODNE": 8992,
+    "MUNICIPIO": "BRAGANCA PAULISTA"
+  },
+  {
+    "CODIGODNE": 8995,
+    "MUNICIPIO": "BRAUNA"
+  },
+  {
+    "CODIGODNE": 8997,
+    "MUNICIPIO": "BRODOWSKI"
+  },
+  {
+    "CODIGODNE": 8998,
+    "MUNICIPIO": "BROTAS"
+  },
+  {
+    "CODIGODNE": 9000,
+    "MUNICIPIO": "BURI"
+  },
+  {
+    "CODIGODNE": 9001,
+    "MUNICIPIO": "BURITAMA"
+  },
+  {
+    "CODIGODNE": 9002,
+    "MUNICIPIO": "BURITIZAL"
+  },
+  {
+    "CODIGODNE": 9003,
+    "MUNICIPIO": "CABRALIA PAULISTA"
+  },
+  {
+    "CODIGODNE": 9004,
+    "MUNICIPIO": "CABREUVA"
+  },
+  {
+    "CODIGODNE": 9005,
+    "MUNICIPIO": "CACAPAVA"
+  },
+  {
+    "CODIGODNE": 9007,
+    "MUNICIPIO": "CACHOEIRA PAULISTA"
+  },
+  {
+    "CODIGODNE": 9008,
+    "MUNICIPIO": "CACONDE"
+  },
+  {
+    "CODIGODNE": 9009,
+    "MUNICIPIO": "CAFELANDIA"
+  },
+  {
+    "CODIGODNE": 9011,
+    "MUNICIPIO": "CAIABU"
+  },
+  {
+    "CODIGODNE": 9013,
+    "MUNICIPIO": "CAIEIRAS"
+  },
+  {
+    "CODIGODNE": 9014,
+    "MUNICIPIO": "CAIUA"
+  },
+  {
+    "CODIGODNE": 9015,
+    "MUNICIPIO": "CAJAMAR"
+  },
+  {
+    "CODIGODNE": 9017,
+    "MUNICIPIO": "CAJOBI"
+  },
+  {
+    "CODIGODNE": 9018,
+    "MUNICIPIO": "CAJURU"
+  },
+  {
+    "CODIGODNE": 9025,
+    "MUNICIPIO": "CAMPINAS"
+  },
+  {
+    "CODIGODNE": 9026,
+    "MUNICIPIO": "CAMPO LIMPO PAULISTA"
+  },
+  {
+    "CODIGODNE": 9028,
+    "MUNICIPIO": "CAMPOS DO JORDAO"
+  },
+  {
+    "CODIGODNE": 9029,
+    "MUNICIPIO": "CAMPOS NOVOS PAULISTA"
+  },
+  {
+    "CODIGODNE": 9030,
+    "MUNICIPIO": "CANANEIA"
+  },
+  {
+    "CODIGODNE": 9033,
+    "MUNICIPIO": "CANDIDO MOTA"
+  },
+  {
+    "CODIGODNE": 9034,
+    "MUNICIPIO": "CANDIDO RODRIGUES"
+  },
+  {
+    "CODIGODNE": 9037,
+    "MUNICIPIO": "CAPAO BONITO"
+  },
+  {
+    "CODIGODNE": 9038,
+    "MUNICIPIO": "CAPELA DO ALTO"
+  },
+  {
+    "CODIGODNE": 9039,
+    "MUNICIPIO": "CAPIVARI"
+  },
+  {
+    "CODIGODNE": 9043,
+    "MUNICIPIO": "CARAGUATATUBA"
+  },
+  {
+    "CODIGODNE": 9044,
+    "MUNICIPIO": "CARAPICUIBA"
+  },
+  {
+    "CODIGODNE": 9046,
+    "MUNICIPIO": "CARDOSO"
+  },
+  {
+    "CODIGODNE": 9049,
+    "MUNICIPIO": "CASA BRANCA"
+  },
+  {
+    "CODIGODNE": 9050,
+    "MUNICIPIO": "CASSIA DOS COQUEIROS"
+  },
+  {
+    "CODIGODNE": 9051,
+    "MUNICIPIO": "CASTILHO"
+  },
+  {
+    "CODIGODNE": 9052,
+    "MUNICIPIO": "CATANDUVA"
+  },
+  {
+    "CODIGODNE": 9053,
+    "MUNICIPIO": "CATIGUA"
+  },
+  {
+    "CODIGODNE": 9056,
+    "MUNICIPIO": "CEDRAL"
+  },
+  {
+    "CODIGODNE": 9057,
+    "MUNICIPIO": "CERQUEIRA CESAR"
+  },
+  {
+    "CODIGODNE": 9059,
+    "MUNICIPIO": "CESARIO LANGE"
+  },
+  {
+    "CODIGODNE": 9058,
+    "MUNICIPIO": "CERQUILHO"
+  },
+  {
+    "CODIGODNE": 9061,
+    "MUNICIPIO": "CHARQUEADA"
+  },
+  {
+    "CODIGODNE": 9065,
+    "MUNICIPIO": "CLEMENTINA"
+  },
+  {
+    "CODIGODNE": 9067,
+    "MUNICIPIO": "COLINA"
+  },
+  {
+    "CODIGODNE": 9068,
+    "MUNICIPIO": "COLOMBIA"
+  },
+  {
+    "CODIGODNE": 9070,
+    "MUNICIPIO": "CONCHAL"
+  },
+  {
+    "CODIGODNE": 9071,
+    "MUNICIPIO": "CONCHAS"
+  },
+  {
+    "CODIGODNE": 9072,
+    "MUNICIPIO": "CORDEIROPOLIS"
+  },
+  {
+    "CODIGODNE": 9073,
+    "MUNICIPIO": "COROADOS"
+  },
+  {
+    "CODIGODNE": 9075,
+    "MUNICIPIO": "CORONEL MACEDO"
+  },
+  {
+    "CODIGODNE": 9078,
+    "MUNICIPIO": "CORUMBATAI"
+  },
+  {
+    "CODIGODNE": 9079,
+    "MUNICIPIO": "COSMOPOLIS"
+  },
+  {
+    "CODIGODNE": 9080,
+    "MUNICIPIO": "COSMORAMA"
+  },
+  {
+    "CODIGODNE": 9082,
+    "MUNICIPIO": "COTIA"
+  },
+  {
+    "CODIGODNE": 9083,
+    "MUNICIPIO": "CRAVINHOS"
+  },
+  {
+    "CODIGODNE": 9084,
+    "MUNICIPIO": "CRISTAIS PAULISTA"
+  },
+  {
+    "CODIGODNE": 9086,
+    "MUNICIPIO": "CRUZALIA"
+  },
+  {
+    "CODIGODNE": 9087,
+    "MUNICIPIO": "CRUZEIRO"
+  },
+  {
+    "CODIGODNE": 9088,
+    "MUNICIPIO": "CUBATAO"
+  },
+  {
+    "CODIGODNE": 9090,
+    "MUNICIPIO": "CUNHA"
+  },
+  {
+    "CODIGODNE": 9093,
+    "MUNICIPIO": "DESCALVADO"
+  },
+  {
+    "CODIGODNE": 9094,
+    "MUNICIPIO": "DIADEMA"
+  },
+  {
+    "CODIGODNE": 9097,
+    "MUNICIPIO": "DIVINOLANDIA"
+  },
+  {
+    "CODIGODNE": 9098,
+    "MUNICIPIO": "DOBRADA"
+  },
+  {
+    "CODIGODNE": 9099,
+    "MUNICIPIO": "DOIS CORREGOS"
+  },
+  {
+    "CODIGODNE": 9100,
+    "MUNICIPIO": "DOLCINOPOLIS"
+  },
+  {
+    "CODIGODNE": 9102,
+    "MUNICIPIO": "DOURADO"
+  },
+  {
+    "CODIGODNE": 9103,
+    "MUNICIPIO": "DRACENA"
+  },
+  {
+    "CODIGODNE": 9104,
+    "MUNICIPIO": "DUARTINA"
+  },
+  {
+    "CODIGODNE": 9105,
+    "MUNICIPIO": "DUMONT"
+  },
+  {
+    "CODIGODNE": 9107,
+    "MUNICIPIO": "ECHAPORA"
+  },
+  {
+    "CODIGODNE": 9108,
+    "MUNICIPIO": "ELDORADO"
+  },
+  {
+    "CODIGODNE": 9110,
+    "MUNICIPIO": "ELIAS FAUSTO"
+  },
+  {
+    "CODIGODNE": 9113,
+    "MUNICIPIO": "EMBU DAS ARTES"
+  },
+  {
+    "CODIGODNE": 9114,
+    "MUNICIPIO": "EMBU-GUACU"
+  },
+  {
+    "CODIGODNE": 9128,
+    "MUNICIPIO": "ESTRELA DO NORTE"
+  },
+  {
+    "CODIGODNE": 9127,
+    "MUNICIPIO": "ESTRELA D'OESTE"
+  },
+  {
+    "CODIGODNE": 9131,
+    "MUNICIPIO": "FARTURA"
+  },
+  {
+    "CODIGODNE": 9135,
+    "MUNICIPIO": "FERNANDO PRESTES"
+  },
+  {
+    "CODIGODNE": 9136,
+    "MUNICIPIO": "FERNANDOPOLIS"
+  },
+  {
+    "CODIGODNE": 9138,
+    "MUNICIPIO": "FERRAZ DE VASCONCELOS"
+  },
+  {
+    "CODIGODNE": 9139,
+    "MUNICIPIO": "FLORA RICA"
+  },
+  {
+    "CODIGODNE": 9140,
+    "MUNICIPIO": "FLOREAL"
+  },
+  {
+    "CODIGODNE": 9142,
+    "MUNICIPIO": "FLORIDA PAULISTA"
+  },
+  {
+    "CODIGODNE": 9143,
+    "MUNICIPIO": "FLORÍNEA"
+  },
+  {
+    "CODIGODNE": 9144,
+    "MUNICIPIO": "FRANCA"
+  },
+  {
+    "CODIGODNE": 9145,
+    "MUNICIPIO": "FRANCISCO MORATO"
+  },
+  {
+    "CODIGODNE": 9146,
+    "MUNICIPIO": "FRANCO DA ROCHA"
+  },
+  {
+    "CODIGODNE": 9148,
+    "MUNICIPIO": "GABRIEL MONTEIRO"
+  },
+  {
+    "CODIGODNE": 9149,
+    "MUNICIPIO": "GALIA"
+  },
+  {
+    "CODIGODNE": 9150,
+    "MUNICIPIO": "GARCA"
+  },
+  {
+    "CODIGODNE": 9152,
+    "MUNICIPIO": "GASTAO VIDIGAL"
+  },
+  {
+    "CODIGODNE": 9154,
+    "MUNICIPIO": "GENERAL SALGADO"
+  },
+  {
+    "CODIGODNE": 9155,
+    "MUNICIPIO": "GETULINA"
+  },
+  {
+    "CODIGODNE": 9156,
+    "MUNICIPIO": "GLICERIO"
+  },
+  {
+    "CODIGODNE": 9160,
+    "MUNICIPIO": "GUAICARA"
+  },
+  {
+    "CODIGODNE": 9161,
+    "MUNICIPIO": "GUAIMBE"
+  },
+  {
+    "CODIGODNE": 9162,
+    "MUNICIPIO": "GUAIRA"
+  },
+  {
+    "CODIGODNE": 9164,
+    "MUNICIPIO": "GUAPIACU"
+  },
+  {
+    "CODIGODNE": 9165,
+    "MUNICIPIO": "GUAPIARA"
+  },
+  {
+    "CODIGODNE": 9167,
+    "MUNICIPIO": "GUARA"
+  },
+  {
+    "CODIGODNE": 9168,
+    "MUNICIPIO": "GUARACAI"
+  },
+  {
+    "CODIGODNE": 9169,
+    "MUNICIPIO": "GUARACI"
+  },
+  {
+    "CODIGODNE": 9171,
+    "MUNICIPIO": "GUARANI D'OESTE"
+  },
+  {
+    "CODIGODNE": 9172,
+    "MUNICIPIO": "GUARANTA"
+  },
+  {
+    "CODIGODNE": 9175,
+    "MUNICIPIO": "GUARARAPES"
+  },
+  {
+    "CODIGODNE": 9176,
+    "MUNICIPIO": "GUARAREMA"
+  },
+  {
+    "CODIGODNE": 9177,
+    "MUNICIPIO": "GUARATINGUETA"
+  },
+  {
+    "CODIGODNE": 9178,
+    "MUNICIPIO": "GUAREI"
+  },
+  {
+    "CODIGODNE": 9179,
+    "MUNICIPIO": "GUARIBA"
+  },
+  {
+    "CODIGODNE": 9182,
+    "MUNICIPIO": "GUARUJA"
+  },
+  {
+    "CODIGODNE": 9183,
+    "MUNICIPIO": "GUARULHOS"
+  },
+  {
+    "CODIGODNE": 9185,
+    "MUNICIPIO": "GUZOLANDIA"
+  },
+  {
+    "CODIGODNE": 9186,
+    "MUNICIPIO": "HERCULANDIA"
+  },
+  {
+    "CODIGODNE": 9190,
+    "MUNICIPIO": "IACANGA"
+  },
+  {
+    "CODIGODNE": 9191,
+    "MUNICIPIO": "IACRI"
+  },
+  {
+    "CODIGODNE": 9193,
+    "MUNICIPIO": "IBATE"
+  },
+  {
+    "CODIGODNE": 9195,
+    "MUNICIPIO": "IBIRA"
+  },
+  {
+    "CODIGODNE": 9196,
+    "MUNICIPIO": "IBIRAREMA"
+  },
+  {
+    "CODIGODNE": 9197,
+    "MUNICIPIO": "IBITINGA"
+  },
+  {
+    "CODIGODNE": 9201,
+    "MUNICIPIO": "IBIUNA"
+  },
+  {
+    "CODIGODNE": 9202,
+    "MUNICIPIO": "ICEM"
+  },
+  {
+    "CODIGODNE": 9204,
+    "MUNICIPIO": "IEPE"
+  },
+  {
+    "CODIGODNE": 9206,
+    "MUNICIPIO": "IGARACU DO TIETE"
+  },
+  {
+    "CODIGODNE": 9208,
+    "MUNICIPIO": "IGARAPAVA"
+  },
+  {
+    "CODIGODNE": 9209,
+    "MUNICIPIO": "IGARATA"
+  },
+  {
+    "CODIGODNE": 9210,
+    "MUNICIPIO": "IGUAPE"
+  },
+  {
+    "CODIGODNE": 9214,
+    "MUNICIPIO": "ILHABELA"
+  },
+  {
+    "CODIGODNE": 9216,
+    "MUNICIPIO": "INDAIATUBA"
+  },
+  {
+    "CODIGODNE": 9217,
+    "MUNICIPIO": "INDIANA"
+  },
+  {
+    "CODIGODNE": 9218,
+    "MUNICIPIO": "INDIAPORA"
+  },
+  {
+    "CODIGODNE": 9220,
+    "MUNICIPIO": "INUBIA PAULISTA"
+  },
+  {
+    "CODIGODNE": 9221,
+    "MUNICIPIO": "IPAUSSU"
+  },
+  {
+    "CODIGODNE": 9222,
+    "MUNICIPIO": "IPERO"
+  },
+  {
+    "CODIGODNE": 9223,
+    "MUNICIPIO": "IPEUNA"
+  },
+  {
+    "CODIGODNE": 9225,
+    "MUNICIPIO": "IPORANGA"
+  },
+  {
+    "CODIGODNE": 9226,
+    "MUNICIPIO": "IPUA"
+  },
+  {
+    "CODIGODNE": 9227,
+    "MUNICIPIO": "IRACEMAPOLIS"
+  },
+  {
+    "CODIGODNE": 9229,
+    "MUNICIPIO": "IRAPUA"
+  },
+  {
+    "CODIGODNE": 9230,
+    "MUNICIPIO": "IRAPURU"
+  },
+  {
+    "CODIGODNE": 9231,
+    "MUNICIPIO": "ITABERA"
+  },
+  {
+    "CODIGODNE": 9233,
+    "MUNICIPIO": "ITAI"
+  },
+  {
+    "CODIGODNE": 9235,
+    "MUNICIPIO": "ITAJOBI"
+  },
+  {
+    "CODIGODNE": 9236,
+    "MUNICIPIO": "ITAJU"
+  },
+  {
+    "CODIGODNE": 9237,
+    "MUNICIPIO": "ITANHAEM"
+  },
+  {
+    "CODIGODNE": 9239,
+    "MUNICIPIO": "ITAPECERICA DA SERRA"
+  },
+  {
+    "CODIGODNE": 9240,
+    "MUNICIPIO": "ITAPETININGA"
+  },
+  {
+    "CODIGODNE": 9242,
+    "MUNICIPIO": "ITAPEVA"
+  },
+  {
+    "CODIGODNE": 9243,
+    "MUNICIPIO": "ITAPEVI"
+  },
+  {
+    "CODIGODNE": 9244,
+    "MUNICIPIO": "ITAPIRA"
+  },
+  {
+    "CODIGODNE": 9246,
+    "MUNICIPIO": "ITAPOLIS"
+  },
+  {
+    "CODIGODNE": 9247,
+    "MUNICIPIO": "ITAPORANGA"
+  },
+  {
+    "CODIGODNE": 9248,
+    "MUNICIPIO": "ITAPUI"
+  },
+  {
+    "CODIGODNE": 9249,
+    "MUNICIPIO": "ITAPURA"
+  },
+  {
+    "CODIGODNE": 9250,
+    "MUNICIPIO": "ITAQUAQUECETUBA"
+  },
+  {
+    "CODIGODNE": 9252,
+    "MUNICIPIO": "ITARARE"
+  },
+  {
+    "CODIGODNE": 9253,
+    "MUNICIPIO": "ITARIRI"
+  },
+  {
+    "CODIGODNE": 9254,
+    "MUNICIPIO": "ITATIBA"
+  },
+  {
+    "CODIGODNE": 9255,
+    "MUNICIPIO": "ITATINGA"
+  },
+  {
+    "CODIGODNE": 9256,
+    "MUNICIPIO": "ITIRAPINA"
+  },
+  {
+    "CODIGODNE": 9257,
+    "MUNICIPIO": "ITIRAPUA"
+  },
+  {
+    "CODIGODNE": 9258,
+    "MUNICIPIO": "ITOBI"
+  },
+  {
+    "CODIGODNE": 9260,
+    "MUNICIPIO": "ITU"
+  },
+  {
+    "CODIGODNE": 9261,
+    "MUNICIPIO": "ITUPEVA"
+  },
+  {
+    "CODIGODNE": 9262,
+    "MUNICIPIO": "ITUVERAVA"
+  },
+  {
+    "CODIGODNE": 9264,
+    "MUNICIPIO": "JABORANDI"
+  },
+  {
+    "CODIGODNE": 9265,
+    "MUNICIPIO": "JABOTICABAL"
+  },
+  {
+    "CODIGODNE": 9267,
+    "MUNICIPIO": "JACAREI"
+  },
+  {
+    "CODIGODNE": 9268,
+    "MUNICIPIO": "JACI"
+  },
+  {
+    "CODIGODNE": 9271,
+    "MUNICIPIO": "JACUPIRANGA"
+  },
+  {
+    "CODIGODNE": 9273,
+    "MUNICIPIO": "JAGUARIUNA"
+  },
+  {
+    "CODIGODNE": 9274,
+    "MUNICIPIO": "JALES"
+  },
+  {
+    "CODIGODNE": 9276,
+    "MUNICIPIO": "JAMBEIRO"
+  },
+  {
+    "CODIGODNE": 9277,
+    "MUNICIPIO": "JANDIRA"
+  },
+  {
+    "CODIGODNE": 9282,
+    "MUNICIPIO": "JARDINOPOLIS"
+  },
+  {
+    "CODIGODNE": 9283,
+    "MUNICIPIO": "JARINU"
+  },
+  {
+    "CODIGODNE": 9285,
+    "MUNICIPIO": "JAU"
+  },
+  {
+    "CODIGODNE": 9286,
+    "MUNICIPIO": "JERIQUARA"
+  },
+  {
+    "CODIGODNE": 9287,
+    "MUNICIPIO": "JOANOPOLIS"
+  },
+  {
+    "CODIGODNE": 9288,
+    "MUNICIPIO": "JOAO RAMALHO"
+  },
+  {
+    "CODIGODNE": 9291,
+    "MUNICIPIO": "JOSE BONIFACIO"
+  },
+  {
+    "CODIGODNE": 9293,
+    "MUNICIPIO": "JULIO MESQUITA"
+  },
+  {
+    "CODIGODNE": 9295,
+    "MUNICIPIO": "JUNDIAI"
+  },
+  {
+    "CODIGODNE": 9298,
+    "MUNICIPIO": "JUNQUEIROPOLIS"
+  },
+  {
+    "CODIGODNE": 9299,
+    "MUNICIPIO": "JUQUIA"
+  },
+  {
+    "CODIGODNE": 9301,
+    "MUNICIPIO": "JUQUITIBA"
+  },
+  {
+    "CODIGODNE": 9309,
+    "MUNICIPIO": "LAGOINHA"
+  },
+  {
+    "CODIGODNE": 9310,
+    "MUNICIPIO": "LARANJAL PAULISTA"
+  },
+  {
+    "CODIGODNE": 9313,
+    "MUNICIPIO": "LAVINIA"
+  },
+  {
+    "CODIGODNE": 9314,
+    "MUNICIPIO": "LAVRINHAS"
+  },
+  {
+    "CODIGODNE": 9315,
+    "MUNICIPIO": "LEME"
+  },
+  {
+    "CODIGODNE": 9316,
+    "MUNICIPIO": "LENCOIS PAULISTA"
+  },
+  {
+    "CODIGODNE": 9317,
+    "MUNICIPIO": "LIMEIRA"
+  },
+  {
+    "CODIGODNE": 9318,
+    "MUNICIPIO": "LINDOIA"
+  },
+  {
+    "CODIGODNE": 9319,
+    "MUNICIPIO": "LINS"
+  },
+  {
+    "CODIGODNE": 9321,
+    "MUNICIPIO": "LORENA"
+  },
+  {
+    "CODIGODNE": 9323,
+    "MUNICIPIO": "LOUVEIRA"
+  },
+  {
+    "CODIGODNE": 9324,
+    "MUNICIPIO": "LUCELIA"
+  },
+  {
+    "CODIGODNE": 9325,
+    "MUNICIPIO": "LUCIANOPOLIS"
+  },
+  {
+    "CODIGODNE": 9326,
+    "MUNICIPIO": "LUIS ANTONIO"
+  },
+  {
+    "CODIGODNE": 9327,
+    "MUNICIPIO": "LUIZIANIA"
+  },
+  {
+    "CODIGODNE": 9328,
+    "MUNICIPIO": "LUPERCIO"
+  },
+  {
+    "CODIGODNE": 9330,
+    "MUNICIPIO": "LUTECIA"
+  },
+  {
+    "CODIGODNE": 9331,
+    "MUNICIPIO": "MACATUBA"
+  },
+  {
+    "CODIGODNE": 9332,
+    "MUNICIPIO": "MACAUBAL"
+  },
+  {
+    "CODIGODNE": 9333,
+    "MUNICIPIO": "MACEDONIA"
+  },
+  {
+    "CODIGODNE": 9335,
+    "MUNICIPIO": "MAGDA"
+  },
+  {
+    "CODIGODNE": 9337,
+    "MUNICIPIO": "MAIRINQUE"
+  },
+  {
+    "CODIGODNE": 9338,
+    "MUNICIPIO": "MAIRIPORA"
+  },
+  {
+    "CODIGODNE": 9340,
+    "MUNICIPIO": "MANDURI"
+  },
+  {
+    "CODIGODNE": 9342,
+    "MUNICIPIO": "MARABA PAULISTA"
+  },
+  {
+    "CODIGODNE": 9343,
+    "MUNICIPIO": "MARACAI"
+  },
+  {
+    "CODIGODNE": 9347,
+    "MUNICIPIO": "MARIAPOLIS"
+  },
+  {
+    "CODIGODNE": 9348,
+    "MUNICIPIO": "MARILIA"
+  },
+  {
+    "CODIGODNE": 9349,
+    "MUNICIPIO": "MARINOPOLIS"
+  },
+  {
+    "CODIGODNE": 9353,
+    "MUNICIPIO": "MARTINOPOLIS"
+  },
+  {
+    "CODIGODNE": 9354,
+    "MUNICIPIO": "MATAO"
+  },
+  {
+    "CODIGODNE": 9355,
+    "MUNICIPIO": "MAUA"
+  },
+  {
+    "CODIGODNE": 9356,
+    "MUNICIPIO": "MENDONCA"
+  },
+  {
+    "CODIGODNE": 9357,
+    "MUNICIPIO": "MERIDIANO"
+  },
+  {
+    "CODIGODNE": 9359,
+    "MUNICIPIO": "MIGUELOPOLIS"
+  },
+  {
+    "CODIGODNE": 9360,
+    "MUNICIPIO": "MINEIROS DO TIETE"
+  },
+  {
+    "CODIGODNE": 9361,
+    "MUNICIPIO": "MIRA ESTRELA"
+  },
+  {
+    "CODIGODNE": 9362,
+    "MUNICIPIO": "MIRACATU"
+  },
+  {
+    "CODIGODNE": 9364,
+    "MUNICIPIO": "MIRANDOPOLIS"
+  },
+  {
+    "CODIGODNE": 9365,
+    "MUNICIPIO": "MIRANTE DO PARANAPANEMA"
+  },
+  {
+    "CODIGODNE": 9366,
+    "MUNICIPIO": "MIRASSOL"
+  },
+  {
+    "CODIGODNE": 9367,
+    "MUNICIPIO": "MIRASSOLANDIA"
+  },
+  {
+    "CODIGODNE": 9368,
+    "MUNICIPIO": "MOCOCA"
+  },
+  {
+    "CODIGODNE": 9369,
+    "MUNICIPIO": "MOGI DAS CRUZES"
+  },
+  {
+    "CODIGODNE": 9370,
+    "MUNICIPIO": "MOGI GUACU"
+  },
+  {
+    "CODIGODNE": 9371,
+    "MUNICIPIO": "MOGI MIRIM"
+  },
+  {
+    "CODIGODNE": 9372,
+    "MUNICIPIO": "MOMBUCA"
+  },
+  {
+    "CODIGODNE": 9373,
+    "MUNICIPIO": "MONCOES"
+  },
+  {
+    "CODIGODNE": 9374,
+    "MUNICIPIO": "MONGAGUA"
+  },
+  {
+    "CODIGODNE": 9376,
+    "MUNICIPIO": "MONTE ALEGRE DO SUL"
+  },
+  {
+    "CODIGODNE": 9377,
+    "MUNICIPIO": "MONTE ALTO"
+  },
+  {
+    "CODIGODNE": 9378,
+    "MUNICIPIO": "MONTE APRAZIVEL"
+  },
+  {
+    "CODIGODNE": 9379,
+    "MUNICIPIO": "MONTE AZUL PAULISTA"
+  },
+  {
+    "CODIGODNE": 9381,
+    "MUNICIPIO": "MONTE CASTELO"
+  },
+  {
+    "CODIGODNE": 9382,
+    "MUNICIPIO": "MONTE MOR"
+  },
+  {
+    "CODIGODNE": 9384,
+    "MUNICIPIO": "MONTEIRO LOBATO"
+  },
+  {
+    "CODIGODNE": 9386,
+    "MUNICIPIO": "MORRO AGUDO"
+  },
+  {
+    "CODIGODNE": 9388,
+    "MUNICIPIO": "MORUNGABA"
+  },
+  {
+    "CODIGODNE": 9392,
+    "MUNICIPIO": "MURUTINGA DO SUL"
+  },
+  {
+    "CODIGODNE": 9394,
+    "MUNICIPIO": "NARANDIBA"
+  },
+  {
+    "CODIGODNE": 9395,
+    "MUNICIPIO": "NATIVIDADE DA SERRA"
+  },
+  {
+    "CODIGODNE": 9396,
+    "MUNICIPIO": "NAZARE PAULISTA"
+  },
+  {
+    "CODIGODNE": 9397,
+    "MUNICIPIO": "NEVES PAULISTA"
+  },
+  {
+    "CODIGODNE": 9398,
+    "MUNICIPIO": "NHANDEARA"
+  },
+  {
+    "CODIGODNE": 9399,
+    "MUNICIPIO": "NIPOA"
+  },
+  {
+    "CODIGODNE": 9403,
+    "MUNICIPIO": "NOVA ALIANCA"
+  },
+  {
+    "CODIGODNE": 9409,
+    "MUNICIPIO": "NOVA EUROPA"
+  },
+  {
+    "CODIGODNE": 9410,
+    "MUNICIPIO": "NOVA GRANADA"
+  },
+  {
+    "CODIGODNE": 9411,
+    "MUNICIPIO": "NOVA GUATAPORANGA"
+  },
+  {
+    "CODIGODNE": 9412,
+    "MUNICIPIO": "NOVA INDEPENDENCIA"
+  },
+  {
+    "CODIGODNE": 9414,
+    "MUNICIPIO": "NOVA LUZITANIA"
+  },
+  {
+    "CODIGODNE": 9415,
+    "MUNICIPIO": "NOVA ODESSA"
+  },
+  {
+    "CODIGODNE": 9420,
+    "MUNICIPIO": "NOVO HORIZONTE"
+  },
+  {
+    "CODIGODNE": 9421,
+    "MUNICIPIO": "NUPORANGA"
+  },
+  {
+    "CODIGODNE": 9423,
+    "MUNICIPIO": "OCAUCU"
+  },
+  {
+    "CODIGODNE": 9424,
+    "MUNICIPIO": "OLEO"
+  },
+  {
+    "CODIGODNE": 9425,
+    "MUNICIPIO": "OLIMPIA"
+  },
+  {
+    "CODIGODNE": 9428,
+    "MUNICIPIO": "ONDA VERDE"
+  },
+  {
+    "CODIGODNE": 9429,
+    "MUNICIPIO": "ORIENTE"
+  },
+  {
+    "CODIGODNE": 9430,
+    "MUNICIPIO": "ORINDIUVA"
+  },
+  {
+    "CODIGODNE": 9431,
+    "MUNICIPIO": "ORLANDIA"
+  },
+  {
+    "CODIGODNE": 9432,
+    "MUNICIPIO": "OSASCO"
+  },
+  {
+    "CODIGODNE": 9433,
+    "MUNICIPIO": "OSCAR BRESSANE"
+  },
+  {
+    "CODIGODNE": 9434,
+    "MUNICIPIO": "OSVALDO CRUZ"
+  },
+  {
+    "CODIGODNE": 9435,
+    "MUNICIPIO": "OURINHOS"
+  },
+  {
+    "CODIGODNE": 9437,
+    "MUNICIPIO": "OURO VERDE"
+  },
+  {
+    "CODIGODNE": 9439,
+    "MUNICIPIO": "PACAEMBU"
+  },
+  {
+    "CODIGODNE": 9441,
+    "MUNICIPIO": "PALESTINA"
+  },
+  {
+    "CODIGODNE": 9442,
+    "MUNICIPIO": "PALMARES PAULISTA"
+  },
+  {
+    "CODIGODNE": 9443,
+    "MUNICIPIO": "PALMEIRA D'OESTE"
+  },
+  {
+    "CODIGODNE": 9445,
+    "MUNICIPIO": "PALMITAL"
+  },
+  {
+    "CODIGODNE": 9446,
+    "MUNICIPIO": "PANORAMA"
+  },
+  {
+    "CODIGODNE": 9447,
+    "MUNICIPIO": "PARAGUACU PAULISTA"
+  },
+  {
+    "CODIGODNE": 9448,
+    "MUNICIPIO": "PARAIBUNA"
+  },
+  {
+    "CODIGODNE": 9449,
+    "MUNICIPIO": "PARAISO"
+  },
+  {
+    "CODIGODNE": 9452,
+    "MUNICIPIO": "PARANAPANEMA"
+  },
+  {
+    "CODIGODNE": 9456,
+    "MUNICIPIO": "PARDINHO"
+  },
+  {
+    "CODIGODNE": 9454,
+    "MUNICIPIO": "PARANAPUA"
+  },
+  {
+    "CODIGODNE": 9455,
+    "MUNICIPIO": "PARAPUA"
+  },
+  {
+    "CODIGODNE": 9457,
+    "MUNICIPIO": "PARIQUERA-ACU"
+  },
+  {
+    "CODIGODNE": 9462,
+    "MUNICIPIO": "PATROCINIO PAULISTA"
+  },
+  {
+    "CODIGODNE": 9463,
+    "MUNICIPIO": "PAULICEIA"
+  },
+  {
+    "CODIGODNE": 9464,
+    "MUNICIPIO": "PAULINIA"
+  },
+  {
+    "CODIGODNE": 9466,
+    "MUNICIPIO": "PAULO DE FARIA"
+  },
+  {
+    "CODIGODNE": 9468,
+    "MUNICIPIO": "PEDERNEIRAS"
+  },
+  {
+    "CODIGODNE": 9469,
+    "MUNICIPIO": "PEDRA BELA"
+  },
+  {
+    "CODIGODNE": 9471,
+    "MUNICIPIO": "PEDRANOPOLIS"
+  },
+  {
+    "CODIGODNE": 9472,
+    "MUNICIPIO": "PEDREGULHO"
+  },
+  {
+    "CODIGODNE": 9473,
+    "MUNICIPIO": "PEDREIRA"
+  },
+  {
+    "CODIGODNE": 9476,
+    "MUNICIPIO": "PEDRO DE TOLEDO"
+  },
+  {
+    "CODIGODNE": 9477,
+    "MUNICIPIO": "PENAPOLIS"
+  },
+  {
+    "CODIGODNE": 9478,
+    "MUNICIPIO": "PEREIRA BARRETO"
+  },
+  {
+    "CODIGODNE": 9479,
+    "MUNICIPIO": "PEREIRAS"
+  },
+  {
+    "CODIGODNE": 9480,
+    "MUNICIPIO": "PERUIBE"
+  },
+  {
+    "CODIGODNE": 9481,
+    "MUNICIPIO": "PIACATU"
+  },
+  {
+    "CODIGODNE": 9483,
+    "MUNICIPIO": "PIEDADE"
+  },
+  {
+    "CODIGODNE": 9484,
+    "MUNICIPIO": "PILAR DO SUL"
+  },
+  {
+    "CODIGODNE": 9485,
+    "MUNICIPIO": "PINDAMONHANGABA"
+  },
+  {
+    "CODIGODNE": 9486,
+    "MUNICIPIO": "PINDORAMA"
+  },
+  {
+    "CODIGODNE": 9124,
+    "MUNICIPIO": "ESPIRITO SANTO DO PINHAL"
+  },
+  {
+    "CODIGODNE": 9487,
+    "MUNICIPIO": "PINHALZINHO"
+  },
+  {
+    "CODIGODNE": 9490,
+    "MUNICIPIO": "PIQUEROBI"
+  },
+  {
+    "CODIGODNE": 9491,
+    "MUNICIPIO": "PIQUETE"
+  },
+  {
+    "CODIGODNE": 9492,
+    "MUNICIPIO": "PIRACAIA"
+  },
+  {
+    "CODIGODNE": 9493,
+    "MUNICIPIO": "PIRACICABA"
+  },
+  {
+    "CODIGODNE": 9501,
+    "MUNICIPIO": "PIRASSUNUNGA"
+  },
+  {
+    "CODIGODNE": 9494,
+    "MUNICIPIO": "PIRAJU"
+  },
+  {
+    "CODIGODNE": 9495,
+    "MUNICIPIO": "PIRAJUI"
+  },
+  {
+    "CODIGODNE": 9497,
+    "MUNICIPIO": "PIRANGI"
+  },
+  {
+    "CODIGODNE": 9499,
+    "MUNICIPIO": "PIRAPORA DO BOM JESUS"
+  },
+  {
+    "CODIGODNE": 9500,
+    "MUNICIPIO": "PIRAPOZINHO"
+  },
+  {
+    "CODIGODNE": 9502,
+    "MUNICIPIO": "PIRATININGA"
+  },
+  {
+    "CODIGODNE": 9503,
+    "MUNICIPIO": "PITANGUEIRAS"
+  },
+  {
+    "CODIGODNE": 9504,
+    "MUNICIPIO": "PLANALTO"
+  },
+  {
+    "CODIGODNE": 9507,
+    "MUNICIPIO": "PLATINA"
+  },
+  {
+    "CODIGODNE": 9508,
+    "MUNICIPIO": "POA"
+  },
+  {
+    "CODIGODNE": 9509,
+    "MUNICIPIO": "POLONI"
+  },
+  {
+    "CODIGODNE": 9511,
+    "MUNICIPIO": "POMPEIA"
+  },
+  {
+    "CODIGODNE": 9512,
+    "MUNICIPIO": "PONGAI"
+  },
+  {
+    "CODIGODNE": 9513,
+    "MUNICIPIO": "PONTAL"
+  },
+  {
+    "CODIGODNE": 9515,
+    "MUNICIPIO": "PONTES GESTAL"
+  },
+  {
+    "CODIGODNE": 9516,
+    "MUNICIPIO": "POPULINA"
+  },
+  {
+    "CODIGODNE": 9517,
+    "MUNICIPIO": "PORANGABA"
+  },
+  {
+    "CODIGODNE": 9518,
+    "MUNICIPIO": "PORTO FELIZ"
+  },
+  {
+    "CODIGODNE": 9519,
+    "MUNICIPIO": "PORTO FERREIRA"
+  },
+  {
+    "CODIGODNE": 9522,
+    "MUNICIPIO": "POTIRENDABA"
+  },
+  {
+    "CODIGODNE": 9526,
+    "MUNICIPIO": "PRADOPOLIS"
+  },
+  {
+    "CODIGODNE": 9527,
+    "MUNICIPIO": "PRAIA GRANDE"
+  },
+  {
+    "CODIGODNE": 9529,
+    "MUNICIPIO": "PRESIDENTE ALVES"
+  },
+  {
+    "CODIGODNE": 9530,
+    "MUNICIPIO": "PRESIDENTE BERNARDES"
+  },
+  {
+    "CODIGODNE": 9531,
+    "MUNICIPIO": "PRESIDENTE EPITACIO"
+  },
+  {
+    "CODIGODNE": 9532,
+    "MUNICIPIO": "PRESIDENTE PRUDENTE"
+  },
+  {
+    "CODIGODNE": 9533,
+    "MUNICIPIO": "PRESIDENTE VENCESLAU"
+  },
+  {
+    "CODIGODNE": 9535,
+    "MUNICIPIO": "PROMISSAO"
+  },
+  {
+    "CODIGODNE": 9538,
+    "MUNICIPIO": "QUATA"
+  },
+  {
+    "CODIGODNE": 9539,
+    "MUNICIPIO": "QUEIROZ"
+  },
+  {
+    "CODIGODNE": 9540,
+    "MUNICIPIO": "QUELUZ"
+  },
+  {
+    "CODIGODNE": 9541,
+    "MUNICIPIO": "QUINTANA"
+  },
+  {
+    "CODIGODNE": 9543,
+    "MUNICIPIO": "RAFARD"
+  },
+  {
+    "CODIGODNE": 9544,
+    "MUNICIPIO": "RANCHARIA"
+  },
+  {
+    "CODIGODNE": 9546,
+    "MUNICIPIO": "REDENCAO DA SERRA"
+  },
+  {
+    "CODIGODNE": 9547,
+    "MUNICIPIO": "REGENTE FEIJO"
+  },
+  {
+    "CODIGODNE": 9548,
+    "MUNICIPIO": "REGINOPOLIS"
+  },
+  {
+    "CODIGODNE": 9549,
+    "MUNICIPIO": "REGISTRO"
+  },
+  {
+    "CODIGODNE": 9550,
+    "MUNICIPIO": "RESTINGA"
+  },
+  {
+    "CODIGODNE": 9552,
+    "MUNICIPIO": "RIBEIRA"
+  },
+  {
+    "CODIGODNE": 9553,
+    "MUNICIPIO": "RIBEIRAO BONITO"
+  },
+  {
+    "CODIGODNE": 9554,
+    "MUNICIPIO": "RIBEIRAO BRANCO"
+  },
+  {
+    "CODIGODNE": 9555,
+    "MUNICIPIO": "RIBEIRAO CORRENTE"
+  },
+  {
+    "CODIGODNE": 9556,
+    "MUNICIPIO": "RIBEIRAO DO SUL"
+  },
+  {
+    "CODIGODNE": 9559,
+    "MUNICIPIO": "RIBEIRAO PIRES"
+  },
+  {
+    "CODIGODNE": 9560,
+    "MUNICIPIO": "RIBEIRAO PRETO"
+  },
+  {
+    "CODIGODNE": 9570,
+    "MUNICIPIO": "RIVERSUL"
+  },
+  {
+    "CODIGODNE": 9563,
+    "MUNICIPIO": "RIFAINA"
+  },
+  {
+    "CODIGODNE": 9564,
+    "MUNICIPIO": "RINCAO"
+  },
+  {
+    "CODIGODNE": 9565,
+    "MUNICIPIO": "RINOPOLIS"
+  },
+  {
+    "CODIGODNE": 9566,
+    "MUNICIPIO": "RIO CLARO"
+  },
+  {
+    "CODIGODNE": 9567,
+    "MUNICIPIO": "RIO DAS PEDRAS"
+  },
+  {
+    "CODIGODNE": 9568,
+    "MUNICIPIO": "RIO GRANDE DA SERRA"
+  },
+  {
+    "CODIGODNE": 9569,
+    "MUNICIPIO": "RIOLANDIA"
+  },
+  {
+    "CODIGODNE": 9574,
+    "MUNICIPIO": "ROSEIRA"
+  },
+  {
+    "CODIGODNE": 9575,
+    "MUNICIPIO": "RUBIACEA"
+  },
+  {
+    "CODIGODNE": 9577,
+    "MUNICIPIO": "RUBINEIA"
+  },
+  {
+    "CODIGODNE": 9580,
+    "MUNICIPIO": "SABINO"
+  },
+  {
+    "CODIGODNE": 9581,
+    "MUNICIPIO": "SAGRES"
+  },
+  {
+    "CODIGODNE": 9582,
+    "MUNICIPIO": "SALES"
+  },
+  {
+    "CODIGODNE": 9583,
+    "MUNICIPIO": "SALES OLIVEIRA"
+  },
+  {
+    "CODIGODNE": 9584,
+    "MUNICIPIO": "SALESOPOLIS"
+  },
+  {
+    "CODIGODNE": 9585,
+    "MUNICIPIO": "SALMOURAO"
+  },
+  {
+    "CODIGODNE": 9587,
+    "MUNICIPIO": "SALTO"
+  },
+  {
+    "CODIGODNE": 9590,
+    "MUNICIPIO": "SALTO GRANDE"
+  },
+  {
+    "CODIGODNE": 9588,
+    "MUNICIPIO": "SALTO DE PIRAPORA"
+  },
+  {
+    "CODIGODNE": 9591,
+    "MUNICIPIO": "SANDOVALINA"
+  },
+  {
+    "CODIGODNE": 9592,
+    "MUNICIPIO": "SANTA ADELIA"
+  },
+  {
+    "CODIGODNE": 9593,
+    "MUNICIPIO": "SANTA ALBERTINA"
+  },
+  {
+    "CODIGODNE": 9595,
+    "MUNICIPIO": "SANTA BARBARA D'OESTE"
+  },
+  {
+    "CODIGODNE": 8860,
+    "MUNICIPIO": "AGUAS DE SANTA BARBARA"
+  },
+  {
+    "CODIGODNE": 9596,
+    "MUNICIPIO": "SANTA BRANCA"
+  },
+  {
+    "CODIGODNE": 9597,
+    "MUNICIPIO": "SANTA CLARA D'OESTE"
+  },
+  {
+    "CODIGODNE": 9598,
+    "MUNICIPIO": "SANTA CRUZ DA CONCEICAO"
+  },
+  {
+    "CODIGODNE": 9601,
+    "MUNICIPIO": "SANTA CRUZ DAS PALMEIRAS"
+  },
+  {
+    "CODIGODNE": 9602,
+    "MUNICIPIO": "SANTA CRUZ DO RIO PARDO"
+  },
+  {
+    "CODIGODNE": 9604,
+    "MUNICIPIO": "SANTA ERNESTINA"
+  },
+  {
+    "CODIGODNE": 9606,
+    "MUNICIPIO": "SANTA FE DO SUL"
+  },
+  {
+    "CODIGODNE": 9607,
+    "MUNICIPIO": "SANTA GERTRUDES"
+  },
+  {
+    "CODIGODNE": 9608,
+    "MUNICIPIO": "SANTA ISABEL"
+  },
+  {
+    "CODIGODNE": 9610,
+    "MUNICIPIO": "SANTA LUCIA"
+  },
+  {
+    "CODIGODNE": 9612,
+    "MUNICIPIO": "SANTA MARIA DA SERRA"
+  },
+  {
+    "CODIGODNE": 9614,
+    "MUNICIPIO": "SANTA MERCEDES"
+  },
+  {
+    "CODIGODNE": 9615,
+    "MUNICIPIO": "SANTA RITA D'OESTE"
+  },
+  {
+    "CODIGODNE": 9616,
+    "MUNICIPIO": "SANTA RITA DO PASSA QUATRO"
+  },
+  {
+    "CODIGODNE": 9618,
+    "MUNICIPIO": "SANTA ROSA DE VITERBO"
+  },
+  {
+    "CODIGODNE": 9622,
+    "MUNICIPIO": "SANTANA DE PARNAIBA"
+  },
+  {
+    "CODIGODNE": 9621,
+    "MUNICIPIO": "SANTANA DA PONTE PENSA"
+  },
+  {
+    "CODIGODNE": 9624,
+    "MUNICIPIO": "SANTO ANASTACIO"
+  },
+  {
+    "CODIGODNE": 9625,
+    "MUNICIPIO": "SANTO ANDRE"
+  },
+  {
+    "CODIGODNE": 9626,
+    "MUNICIPIO": "SANTO ANTONIO DA ALEGRIA"
+  },
+  {
+    "CODIGODNE": 9630,
+    "MUNICIPIO": "SANTO ANTONIO DO JARDIM"
+  },
+  {
+    "CODIGODNE": 9632,
+    "MUNICIPIO": "SANTO ANTONIO DO PINHAL"
+  },
+  {
+    "CODIGODNE": 9628,
+    "MUNICIPIO": "SANTO ANTONIO DE POSSE"
+  },
+  {
+    "CODIGODNE": 9634,
+    "MUNICIPIO": "SANTO EXPEDITO"
+  },
+  {
+    "CODIGODNE": 9635,
+    "MUNICIPIO": "SANTOPOLIS DO AGUAPEI"
+  },
+  {
+    "CODIGODNE": 9636,
+    "MUNICIPIO": "SANTOS"
+  },
+  {
+    "CODIGODNE": 9639,
+    "MUNICIPIO": "SAO BENTO DO SAPUCAI"
+  },
+  {
+    "CODIGODNE": 9640,
+    "MUNICIPIO": "SAO BERNARDO DO CAMPO"
+  },
+  {
+    "CODIGODNE": 9642,
+    "MUNICIPIO": "SAO CAETANO DO SUL"
+  },
+  {
+    "CODIGODNE": 9643,
+    "MUNICIPIO": "SAO CARLOS"
+  },
+  {
+    "CODIGODNE": 9644,
+    "MUNICIPIO": "SAO FRANCISCO"
+  },
+  {
+    "CODIGODNE": 9647,
+    "MUNICIPIO": "SAO JOAO DA BOA VISTA"
+  },
+  {
+    "CODIGODNE": 9648,
+    "MUNICIPIO": "SAO JOAO DAS DUAS PONTES"
+  },
+  {
+    "CODIGODNE": 9652,
+    "MUNICIPIO": "SAO JOAO DO PAU D'ALHO"
+  },
+  {
+    "CODIGODNE": 9654,
+    "MUNICIPIO": "SAO JOAQUIM DA BARRA"
+  },
+  {
+    "CODIGODNE": 9657,
+    "MUNICIPIO": "SAO JOSE DO BARREIRO"
+  },
+  {
+    "CODIGODNE": 9655,
+    "MUNICIPIO": "SAO JOSE DA BELA VISTA"
+  },
+  {
+    "CODIGODNE": 9660,
+    "MUNICIPIO": "SAO JOSE DOS CAMPOS"
+  },
+  {
+    "CODIGODNE": 9658,
+    "MUNICIPIO": "SAO JOSE DO RIO PARDO"
+  },
+  {
+    "CODIGODNE": 9659,
+    "MUNICIPIO": "SAO JOSE DO RIO PRETO"
+  },
+  {
+    "CODIGODNE": 9663,
+    "MUNICIPIO": "SAO LUIZ DO PARAITINGA"
+  },
+  {
+    "CODIGODNE": 9665,
+    "MUNICIPIO": "SAO MANUEL"
+  },
+  {
+    "CODIGODNE": 9667,
+    "MUNICIPIO": "SAO MIGUEL ARCANJO"
+  },
+  {
+    "CODIGODNE": 9669,
+    "MUNICIPIO": "SAO PEDRO"
+  },
+  {
+    "CODIGODNE": 9670,
+    "MUNICIPIO": "SAO PEDRO DO TURVO"
+  },
+  {
+    "CODIGODNE": 9671,
+    "MUNICIPIO": "SAO ROQUE"
+  },
+  {
+    "CODIGODNE": 9673,
+    "MUNICIPIO": "SAO SEBASTIAO"
+  },
+  {
+    "CODIGODNE": 9674,
+    "MUNICIPIO": "SAO SEBASTIAO DA GRAMA"
+  },
+  {
+    "CODIGODNE": 9677,
+    "MUNICIPIO": "SAO SIMAO"
+  },
+  {
+    "CODIGODNE": 9678,
+    "MUNICIPIO": "SAO VICENTE"
+  },
+  {
+    "CODIGODNE": 9680,
+    "MUNICIPIO": "SARAPUI"
+  },
+  {
+    "CODIGODNE": 9681,
+    "MUNICIPIO": "SARUTAIA"
+  },
+  {
+    "CODIGODNE": 9682,
+    "MUNICIPIO": "SEBASTIANOPOLIS DO SUL"
+  },
+  {
+    "CODIGODNE": 9683,
+    "MUNICIPIO": "SERRA AZUL"
+  },
+  {
+    "CODIGODNE": 9684,
+    "MUNICIPIO": "SERRA NEGRA"
+  },
+  {
+    "CODIGODNE": 9685,
+    "MUNICIPIO": "SERRANA"
+  },
+  {
+    "CODIGODNE": 9686,
+    "MUNICIPIO": "SERTAOZINHO"
+  },
+  {
+    "CODIGODNE": 9687,
+    "MUNICIPIO": "SETE BARRAS"
+  },
+  {
+    "CODIGODNE": 9688,
+    "MUNICIPIO": "SEVERINIA"
+  },
+  {
+    "CODIGODNE": 9690,
+    "MUNICIPIO": "SILVEIRAS"
+  },
+  {
+    "CODIGODNE": 9693,
+    "MUNICIPIO": "SOCORRO"
+  },
+  {
+    "CODIGODNE": 9696,
+    "MUNICIPIO": "SOROCABA"
+  },
+  {
+    "CODIGODNE": 9698,
+    "MUNICIPIO": "SUD MENNUCCI"
+  },
+  {
+    "CODIGODNE": 9700,
+    "MUNICIPIO": "SUMARE"
+  },
+  {
+    "CODIGODNE": 9703,
+    "MUNICIPIO": "SUZANO"
+  },
+  {
+    "CODIGODNE": 9705,
+    "MUNICIPIO": "TABAPUA"
+  },
+  {
+    "CODIGODNE": 9706,
+    "MUNICIPIO": "TABATINGA"
+  },
+  {
+    "CODIGODNE": 9707,
+    "MUNICIPIO": "TABOAO DA SERRA"
+  },
+  {
+    "CODIGODNE": 9708,
+    "MUNICIPIO": "TACIBA"
+  },
+  {
+    "CODIGODNE": 9709,
+    "MUNICIPIO": "TAGUAI"
+  },
+  {
+    "CODIGODNE": 9710,
+    "MUNICIPIO": "TAIACU"
+  },
+  {
+    "CODIGODNE": 9712,
+    "MUNICIPIO": "TAIUVA"
+  },
+  {
+    "CODIGODNE": 9714,
+    "MUNICIPIO": "TAMBAU"
+  },
+  {
+    "CODIGODNE": 9715,
+    "MUNICIPIO": "TANABI"
+  },
+  {
+    "CODIGODNE": 9717,
+    "MUNICIPIO": "TAPIRAI"
+  },
+  {
+    "CODIGODNE": 9718,
+    "MUNICIPIO": "TAPIRATIBA"
+  },
+  {
+    "CODIGODNE": 9720,
+    "MUNICIPIO": "TAQUARITINGA"
+  },
+  {
+    "CODIGODNE": 9721,
+    "MUNICIPIO": "TAQUARITUBA"
+  },
+  {
+    "CODIGODNE": 9723,
+    "MUNICIPIO": "TARABAI"
+  },
+  {
+    "CODIGODNE": 9725,
+    "MUNICIPIO": "TATUI"
+  },
+  {
+    "CODIGODNE": 9726,
+    "MUNICIPIO": "TAUBATE"
+  },
+  {
+    "CODIGODNE": 9728,
+    "MUNICIPIO": "TEJUPA"
+  },
+  {
+    "CODIGODNE": 9729,
+    "MUNICIPIO": "TEODORO SAMPAIO"
+  },
+  {
+    "CODIGODNE": 9732,
+    "MUNICIPIO": "TERRA ROXA"
+  },
+  {
+    "CODIGODNE": 9735,
+    "MUNICIPIO": "TIETE"
+  },
+  {
+    "CODIGODNE": 9736,
+    "MUNICIPIO": "TIMBURI"
+  },
+  {
+    "CODIGODNE": 9739,
+    "MUNICIPIO": "TORRINHA"
+  },
+  {
+    "CODIGODNE": 9741,
+    "MUNICIPIO": "TREMEMBE"
+  },
+  {
+    "CODIGODNE": 9743,
+    "MUNICIPIO": "TRES FRONTEIRAS"
+  },
+  {
+    "CODIGODNE": 9748,
+    "MUNICIPIO": "TUPA"
+  },
+  {
+    "CODIGODNE": 9750,
+    "MUNICIPIO": "TUPI PAULISTA"
+  },
+  {
+    "CODIGODNE": 9752,
+    "MUNICIPIO": "TURIUBA"
+  },
+  {
+    "CODIGODNE": 9753,
+    "MUNICIPIO": "TURMALINA"
+  },
+  {
+    "CODIGODNE": 9756,
+    "MUNICIPIO": "UBATUBA"
+  },
+  {
+    "CODIGODNE": 9757,
+    "MUNICIPIO": "UBIRAJARA"
+  },
+  {
+    "CODIGODNE": 9758,
+    "MUNICIPIO": "UCHOA"
+  },
+  {
+    "CODIGODNE": 9759,
+    "MUNICIPIO": "UNIAO PAULISTA"
+  },
+  {
+    "CODIGODNE": 9761,
+    "MUNICIPIO": "URANIA"
+  },
+  {
+    "CODIGODNE": 9762,
+    "MUNICIPIO": "URU"
+  },
+  {
+    "CODIGODNE": 9763,
+    "MUNICIPIO": "URUPES"
+  },
+  {
+    "CODIGODNE": 9768,
+    "MUNICIPIO": "VALINHOS"
+  },
+  {
+    "CODIGODNE": 9767,
+    "MUNICIPIO": "VALENTIM GENTIL"
+  },
+  {
+    "CODIGODNE": 9769,
+    "MUNICIPIO": "VALPARAISO"
+  },
+  {
+    "CODIGODNE": 9772,
+    "MUNICIPIO": "VARGEM GRANDE DO SUL"
+  },
+  {
+    "CODIGODNE": 9775,
+    "MUNICIPIO": "VARZEA PAULISTA"
+  },
+  {
+    "CODIGODNE": 9777,
+    "MUNICIPIO": "VERA CRUZ"
+  },
+  {
+    "CODIGODNE": 9783,
+    "MUNICIPIO": "VINHEDO"
+  },
+  {
+    "CODIGODNE": 9784,
+    "MUNICIPIO": "VIRADOURO"
+  },
+  {
+    "CODIGODNE": 9785,
+    "MUNICIPIO": "VISTA ALEGRE DO ALTO"
+  },
+  {
+    "CODIGODNE": 9788,
+    "MUNICIPIO": "VOTORANTIM"
+  },
+  {
+    "CODIGODNE": 9789,
+    "MUNICIPIO": "VOTUPORANGA"
+  },
+  {
+    "CODIGODNE": 9062,
+    "MUNICIPIO": "CHAVANTES"
+  },
+  {
+    "CODIGODNE": 9773,
+    "MUNICIPIO": "VARGEM GRANDE PAULISTA"
+  },
+  {
+    "CODIGODNE": 8986,
+    "MUNICIPIO": "BOREBI"
+  },
+  {
+    "CODIGODNE": 9095,
+    "MUNICIPIO": "DIRCE REIS"
+  },
+  {
+    "CODIGODNE": 9112,
+    "MUNICIPIO": "EMBAUBA"
+  },
+  {
+    "CODIGODNE": 9125,
+    "MUNICIPIO": "ESPIRITO SANTO DO TURVO"
+  },
+  {
+    "CODIGODNE": 9129,
+    "MUNICIPIO": "EUCLIDES DA CUNHA PAULISTA"
+  },
+  {
+    "CODIGODNE": 9184,
+    "MUNICIPIO": "GUATAPARA"
+  },
+  {
+    "CODIGODNE": 9192,
+    "MUNICIPIO": "IARAS"
+  },
+  {
+    "CODIGODNE": 9390,
+    "MUNICIPIO": "MOTUCA"
+  },
+  {
+    "CODIGODNE": 9573,
+    "MUNICIPIO": "ROSANA"
+  },
+  {
+    "CODIGODNE": 9724,
+    "MUNICIPIO": "TARUMA"
+  },
+  {
+    "CODIGODNE": 8865,
+    "MUNICIPIO": "ALAMBARI"
+  },
+  {
+    "CODIGODNE": 8875,
+    "MUNICIPIO": "ALUMINIO"
+  },
+  {
+    "CODIGODNE": 8906,
+    "MUNICIPIO": "ARACARIGUAMA"
+  },
+  {
+    "CODIGODNE": 8911,
+    "MUNICIPIO": "ARAPEI"
+  },
+  {
+    "CODIGODNE": 8925,
+    "MUNICIPIO": "ASPASIA"
+  },
+  {
+    "CODIGODNE": 8950,
+    "MUNICIPIO": "BARRA DO CHAPEU"
+  },
+  {
+    "CODIGODNE": 8967,
+    "MUNICIPIO": "BERTIOGA"
+  },
+  {
+    "CODIGODNE": 8981,
+    "MUNICIPIO": "BOM SUCESSO DE ITARARE"
+  },
+  {
+    "CODIGODNE": 9016,
+    "MUNICIPIO": "CAJATI"
+  },
+  {
+    "CODIGODNE": 9023,
+    "MUNICIPIO": "CAMPINA DO MONTE ALEGRE"
+  },
+  {
+    "CODIGODNE": 9036,
+    "MUNICIPIO": "CANITAR"
+  },
+  {
+    "CODIGODNE": 9111,
+    "MUNICIPIO": "ELISIARIO"
+  },
+  {
+    "CODIGODNE": 9115,
+    "MUNICIPIO": "EMILIANOPOLIS"
+  },
+  {
+    "CODIGODNE": 9118,
+    "MUNICIPIO": "ENGENHEIRO COELHO"
+  },
+  {
+    "CODIGODNE": 9126,
+    "MUNICIPIO": "ESTIVA GERBI"
+  },
+  {
+    "CODIGODNE": 9187,
+    "MUNICIPIO": "HOLAMBRA"
+  },
+  {
+    "CODIGODNE": 9189,
+    "MUNICIPIO": "HORTOLANDIA"
+  },
+  {
+    "CODIGODNE": 9211,
+    "MUNICIPIO": "ILHA COMPRIDA"
+  },
+  {
+    "CODIGODNE": 9213,
+    "MUNICIPIO": "ILHA SOLTEIRA"
+  },
+  {
+    "CODIGODNE": 9238,
+    "MUNICIPIO": "ITAOCA"
+  },
+  {
+    "CODIGODNE": 9245,
+    "MUNICIPIO": "ITAPIRAPUA PAULISTA"
+  },
+  {
+    "CODIGODNE": 9322,
+    "MUNICIPIO": "LOURDES"
+  },
+  {
+    "CODIGODNE": 9344,
+    "MUNICIPIO": "MARAPOAMA"
+  },
+  {
+    "CODIGODNE": 9358,
+    "MUNICIPIO": "MESOPOLIS"
+  },
+  {
+    "CODIGODNE": 9406,
+    "MUNICIPIO": "NOVA CAMPINA"
+  },
+  {
+    "CODIGODNE": 9407,
+    "MUNICIPIO": "NOVA CANAA PAULISTA"
+  },
+  {
+    "CODIGODNE": 9418,
+    "MUNICIPIO": "NOVAIS"
+  },
+  {
+    "CODIGODNE": 9458,
+    "MUNICIPIO": "PARISI"
+  },
+  {
+    "CODIGODNE": 9474,
+    "MUNICIPIO": "PEDRINHAS PAULISTA"
+  },
+  {
+    "CODIGODNE": 9514,
+    "MUNICIPIO": "PONTALINDA"
+  },
+  {
+    "CODIGODNE": 9521,
+    "MUNICIPIO": "POTIM"
+  },
+  {
+    "CODIGODNE": 9558,
+    "MUNICIPIO": "RIBEIRAO GRANDE"
+  },
+  {
+    "CODIGODNE": 9586,
+    "MUNICIPIO": "SALTINHO"
+  },
+  {
+    "CODIGODNE": 9629,
+    "MUNICIPIO": "SANTO ANTONIO DO ARACANGUA"
+  },
+  {
+    "CODIGODNE": 9649,
+    "MUNICIPIO": "SAO JOAO DE IRACEMA"
+  },
+  {
+    "CODIGODNE": 9661,
+    "MUNICIPIO": "SAO LOURENCO DA SERRA"
+  },
+  {
+    "CODIGODNE": 9702,
+    "MUNICIPIO": "SUZANAPOLIS"
+  },
+  {
+    "CODIGODNE": 9722,
+    "MUNICIPIO": "TAQUARIVAI"
+  },
+  {
+    "CODIGODNE": 9738,
+    "MUNICIPIO": "TORRE DE PEDRA"
+  },
+  {
+    "CODIGODNE": 9746,
+    "MUNICIPIO": "TUIUTI"
+  },
+  {
+    "CODIGODNE": 9755,
+    "MUNICIPIO": "UBARANA"
+  },
+  {
+    "CODIGODNE": 9771,
+    "MUNICIPIO": "VARGEM"
+  },
+  {
+    "CODIGODNE": 9790,
+    "MUNICIPIO": "ZACARIAS"
+  },
+  {
+    "CODIGODNE": 8916,
+    "MUNICIPIO": "ARCO-IRIS"
+  },
+  {
+    "CODIGODNE": 8996,
+    "MUNICIPIO": "BREJO ALEGRE"
+  },
+  {
+    "CODIGODNE": 9031,
+    "MUNICIPIO": "CANAS"
+  },
+  {
+    "CODIGODNE": 9524,
+    "MUNICIPIO": "PRACINHA"
+  },
+  {
+    "CODIGODNE": 9528,
+    "MUNICIPIO": "PRATANIA"
+  },
+  {
+    "CODIGODNE": 9537,
+    "MUNICIPIO": "QUADRA"
+  },
+  {
+    "CODIGODNE": 9599,
+    "MUNICIPIO": "SANTA CRUZ DA ESPERANCA"
+  },
+  {
+    "CODIGODNE": 9619,
+    "MUNICIPIO": "SANTA SALETE"
+  },
+  {
+    "CODIGODNE": 9786,
+    "MUNICIPIO": "VITORIA BRASIL"
+  },
+  {
+    "CODIGODNE": 9224,
+    "MUNICIPIO": "IPIGUA"
+  },
+  {
+    "CODIGODNE": 9719,
+    "MUNICIPIO": "TAQUARAL"
+  },
+  {
+    "CODIGODNE": 9137,
+    "MUNICIPIO": "FERNAO"
+  },
+  {
+    "CODIGODNE": 9153,
+    "MUNICIPIO": "GAVIAO PEIXOTO"
+  },
+  {
+    "CODIGODNE": 9294,
+    "MUNICIPIO": "JUMIRIM"
+  },
+  {
+    "CODIGODNE": 9393,
+    "MUNICIPIO": "NANTES"
+  },
+  {
+    "CODIGODNE": 9408,
+    "MUNICIPIO": "NOVA CASTILHO"
+  },
+  {
+    "CODIGODNE": 9438,
+    "MUNICIPIO": "OUROESTE"
+  },
+  {
+    "CODIGODNE": 9465,
+    "MUNICIPIO": "PAULISTANIA"
+  },
+  {
+    "CODIGODNE": 9557,
+    "MUNICIPIO": "RIBEIRAO DOS INDIOS"
+  },
+  {
+    "CODIGODNE": 9740,
+    "MUNICIPIO": "TRABIJU"
+  }
+]

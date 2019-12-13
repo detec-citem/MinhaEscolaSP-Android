@@ -1,0 +1,63 @@
+<resources>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:textColorHint">@color/colorWhite</item>
+        <item name="android:spinnerItemStyle">@style/SpinnerItem</item>
+        <item name="android:spinnerDropDownItemStyle">@style/SpinnerItem.DropDownItem</item>
+    </style>
+
+    <style name="AppTheme2" parent="Theme.AppCompat.Light.NoActionBar">
+
+    </style>
+
+    <style name="SpinnerItem" parent="@android:style/Widget.TextView.SpinnerItem">
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:background">@color/azul_boletim</item>
+    </style>
+
+    <style name="SpinnerItem.DropDownItem" parent="@android:style/Widget.Holo.Light.DropDownItem.Spinner">
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:background">@color/azul_boletim</item>
+    </style>
+
+    <style name="AppTheme3" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:spinnerItemStyle">@style/SpinnerItem2</item>
+        <item name="android:spinnerDropDownItemStyle">@style/SpinnerItem2.DropDownItem2</item>
+        <item name="android:textColorHint">@color/colorWhite</item>
+        <item name="colorPrimary">@color/azul_background_sobre_mim</item>
+        <item name="colorAccent">@color/azul_background_sobre_mim</item>
+    </style>
+
+    <style name="SpinnerItem2" parent="@android:style/Widget.TextView.SpinnerItem">
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:background">@color/azul_background_sobre_mim</item>
+    </style>
+
+    <style name="SpinnerItem2.DropDownItem2" parent="@android:style/Widget.Holo.Light.DropDownItem.Spinner">
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:background">@color/azul_background_sobre_mim</item>
+    </style>
+
+
+    <style name="SelectionColor">
+        <item name="colorControlActivated">@color/colorWhite</item>
+        <item name="android:textColorHighlight">@color/colorWhite</item>
+    </style>
+    <style name="CalDroidTheme" parent="CaldroidDefault">
+        <item name="styleCaldroidMonthName">@style/CaldroidThemeMonthName</item>
+        <item name="styleCaldroidWeekdayView">@style/CaldroidThemeWeekday</item>
+    </style>
+    <style name="CaldroidThemeMonthName" parent="CaldroidDefaultMonthName">
+        <item name="android:textColor">@color/vermelho_titulo_calendario</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+    <style name="CaldroidThemeArrowButton" parent="CaldroidDefaultArrowButton">
+        <item name="android:layout_width">34dp</item>
+        <item name="android:layout_height">28dp</item>
+    </style>
+    <style name="CaldroidThemeWeekday" parent="CaldroidDefaultWeekday">
+        <item name="android:textColor">@color/colorBlack</item>
+    </style>
+</resources>

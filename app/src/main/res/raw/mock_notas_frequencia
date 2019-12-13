@@ -1,0 +1,197 @@
+[
+    {
+        "Bimestre": 1,
+        "Notas": [
+            {
+                "CodigoDisciplina": 1100,
+                "Nota": 9,
+                "Faltas": 0,
+                "AusenciasCompensadas": 0,
+                "NomeDisciplina": "LINGUA PORTUGUESA",
+                "PorcentagemFaltas": 0,
+                "ComposicaoNota": []
+            },
+            {
+                "CodigoDisciplina": 1400,
+                "Nota": 7,
+                "Faltas": 0,
+                "AusenciasCompensadas": 0,
+                "NomeDisciplina": "LINGUA ESTRANGEIRA INGLES",
+                "PorcentagemFaltas": 0,
+                "ComposicaoNota": []
+            },
+            {
+                "CodigoDisciplina": 1813,
+                "Nota": 5,
+                "Faltas": 0,
+                "AusenciasCompensadas": 0,
+                "NomeDisciplina": "ARTE",
+                "PorcentagemFaltas": 0,
+                "ComposicaoNota": []
+            },
+            {
+                "CodigoDisciplina": 1900,
+                "Nota": 8,
+                "Faltas": 0,
+                "AusenciasCompensadas": 0,
+                "NomeDisciplina": "EDUCACAO FISICA",
+                "PorcentagemFaltas": 0,
+                "ComposicaoNota": []
+            },
+            {
+                "CodigoDisciplina": 2100,
+                "Nota": 5,
+                "Faltas": 0,
+                "AusenciasCompensadas": 0,
+                "NomeDisciplina": "GEOGRAFIA",
+                "PorcentagemFaltas": 0,
+                "ComposicaoNota": []
+            },
+            {
+                "CodigoDisciplina": 2200,
+                "Nota": 8,
+                "Faltas": 0,
+                "AusenciasCompensadas": 0,
+                "NomeDisciplina": "HISTORIA",
+                "PorcentagemFaltas": 0,
+                "ComposicaoNota": []
+            },
+            {
+                "CodigoDisciplina": 2500,
+                "Nota": 5,
+                "Faltas": 2,
+                "AusenciasCompensadas": 0,
+                "NomeDisciplina": "CIENCIAS FISICAS E BIOLOGICAS",
+                "PorcentagemFaltas": 5.26,
+                "ComposicaoNota": []
+            },
+            {
+                "CodigoDisciplina": 2700,
+                "Nota": 8,
+                "Faltas": 1,
+                "AusenciasCompensadas": 0,
+                "NomeDisciplina": "MATEMATICA",
+                "PorcentagemFaltas": 1.79,
+                "ComposicaoNota": []
+            }
+        ]
+    },
+    {
+        "Bimestre": 2,
+        "Notas": [
+            {
+                "CodigoDisciplina": 1100,
+                "Nota": 9,
+                "Faltas": 8,
+                "AusenciasCompensadas": 0,
+                "NomeDisciplina": "LINGUA PORTUGUESA",
+                "PorcentagemFaltas": 13.79,
+                "ComposicaoNota": []
+            },
+            {
+                "CodigoDisciplina": 1400,
+                "Nota": -1,
+                "Faltas": 0,
+                "AusenciasCompensadas": 0,
+                "NomeDisciplina": "LINGUA ESTRANGEIRA INGLES",
+                "PorcentagemFaltas": 0,
+                "ComposicaoNota": []
+            },
+            {
+                "CodigoDisciplina": 1813,
+                "Nota": 10,
+                "Faltas": 3,
+                "AusenciasCompensadas": 0,
+                "NomeDisciplina": "ARTE",
+                "PorcentagemFaltas": 15,
+                "ComposicaoNota": []
+            },
+            {
+                "CodigoDisciplina": 1900,
+                "Nota": 8,
+                "Faltas": 3,
+                "AusenciasCompensadas": 0,
+                "NomeDisciplina": "EDUCACAO FISICA",
+                "PorcentagemFaltas": 13.64,
+                "ComposicaoNota": []
+            },
+            {
+                "CodigoDisciplina": 2100,
+                "Nota": 7,
+                "Faltas": 2,
+                "AusenciasCompensadas": 0,
+                "NomeDisciplina": "GEOGRAFIA",
+                "PorcentagemFaltas": 5.56,
+                "ComposicaoNota": []
+            },
+            {
+                "CodigoDisciplina": 2200,
+                "Nota": 7,
+                "Faltas": 0,
+                "AusenciasCompensadas": 0,
+                "NomeDisciplina": "HISTORIA",
+                "PorcentagemFaltas": 0,
+                "ComposicaoNota": []
+            },
+            {
+                "CodigoDisciplina": 2500,
+                "Nota": 5,
+                "Faltas": 0,
+                "AusenciasCompensadas": 0,
+                "NomeDisciplina": "CIENCIAS FISICAS E BIOLOGICAS",
+                "PorcentagemFaltas": 0,
+                "ComposicaoNota": []
+            },
+            {
+                "CodigoDisciplina": 2700,
+                "Nota": 7,
+                "Faltas": 8,
+                "AusenciasCompensadas": 0,
+                "NomeDisciplina": "MATEMATICA",
+                "PorcentagemFaltas": 13.33,
+                "ComposicaoNota": []
+            }
+        ]
+    },
+    {
+        "Bimestre": 3,
+        "Notas": [
+            {
+                "CodigoDisciplina": 1100,
+                "Nota": -1,
+                "Faltas": -1,
+                "AusenciasCompensadas": -1,
+                "NomeDisciplina": "LINGUA PORTUGUESA",
+                "PorcentagemFaltas": 0,
+                "ComposicaoNota": []
+            },
+            {
+                "CodigoDisciplina": 2100,
+                "Nota": -1,
+                "Faltas": -1,
+                "AusenciasCompensadas": -1,
+                "NomeDisciplina": "GEOGRAFIA",
+                "PorcentagemFaltas": 0,
+                "ComposicaoNota": []
+            },
+            {
+                "CodigoDisciplina": 2500,
+                "Nota": -1,
+                "Faltas": -1,
+                "AusenciasCompensadas": -1,
+                "NomeDisciplina": "CIENCIAS FISICAS E BIOLOGICAS",
+                "PorcentagemFaltas": 0,
+                "ComposicaoNota": []
+            },
+            {
+                "CodigoDisciplina": 2700,
+                "Nota": -1,
+                "Faltas": -1,
+                "AusenciasCompensadas": -1,
+                "NomeDisciplina": "MATEMATICA",
+                "PorcentagemFaltas": 0,
+                "ComposicaoNota": []
+            }
+        ]
+    }
+]

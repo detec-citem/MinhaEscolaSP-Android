@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/historico_item_layout"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/shape_quadrado_borda_historico"
+    android:padding="5dp"
+    android:layout_margin="5dp"
+    android:animateLayoutChanges="true">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:text="2018"
+        android:textStyle="bold"
+        android:textColor="@color/colorWhite"
+        android:layout_weight="3"
+        android:gravity="center"
+        android:textSize="20sp"
+        android:id="@+id/historico_item_txtAno"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:padding="2dp"
+        android:layout_marginLeft="5dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="0.7"
+            android:textSize="16sp"
+            android:maxLines="2"
+            android:gravity="center_vertical"
+            android:textColor="@color/colorWhite"
+            android:text="aaaaaaaaaaaaaaaaa"
+            android:id="@+id/historico_item_txtEscola"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:maxLines="1"
+            android:gravity="center_vertical"
+            android:textColor="@color/colorWhite"
+            android:textSize="16sp"
+            android:text="aaaaaaaaaaaaaaaaa"
+            android:id="@+id/historico_item_txtTurma"/>
+
+    </LinearLayout>
+
+</LinearLayout>

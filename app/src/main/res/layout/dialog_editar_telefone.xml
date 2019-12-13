@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="5dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Telefone"
+        android:textStyle="bold"
+        android:layout_marginTop="15dp"
+        android:layout_marginLeft="15dp"/>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <EditText
+            android:id="@+id/sobre_edit_ddd"
+            android:layout_width="50dp"
+            android:layout_height="wrap_content"
+            android:hint="DDD"
+            android:inputType="number"
+            android:maxLines="1"
+            android:maxLength="2"
+            android:layout_marginLeft="15dp"/>
+
+        <EditText
+            android:id="@+id/sobre_edit_telefone"
+            android:layout_width="120dp"
+            android:layout_height="wrap_content"
+            android:hint="Número"
+            android:inputType="number"
+            android:maxLines="1"
+            android:maxLength="9"
+            android:layout_marginLeft="15dp"/>
+
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Tipo de telefone"
+        android:textStyle="bold"
+        android:layout_marginTop="15dp"
+        android:layout_marginLeft="15dp"/>
+
+    <Spinner
+        android:id="@+id/sobre_spn_tipo_telefone"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15dp"
+        android:theme="@style/AppTheme2"
+        android:entries="@array/array_tipo_telefone"
+        android:textSize="16sp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Descrição"
+        android:textStyle="bold"
+        android:layout_marginTop="15dp"
+        android:layout_marginLeft="15dp"/>
+
+    <EditText
+        android:id="@+id/sobre_edit_complemento_telefone"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:hint="Ex.: Casa"
+        android:inputType="text"
+        android:maxLines="1"
+        android:maxLength="20"
+        android:layout_marginLeft="15dp" />
+
+    <CheckBox
+        android:id="@+id/sobre_check_sms_telefone"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:layout_marginLeft="15dp"
+        android:text="Desejo receber SMS"/>
+
+</LinearLayout>

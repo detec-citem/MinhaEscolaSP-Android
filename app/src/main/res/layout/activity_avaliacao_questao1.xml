@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".view.new_alimentacao.AvaliacaoQuestao1Activity"
+    android:orientation="vertical"
+    android:background="@color/azul_background_alimentacao_mensagem">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/avaliacao_q1_voltar"
+            android:layout_width="36dp"
+            android:layout_height="36dp"
+            android:layout_margin="12dp"
+            android:padding="5dp"
+            android:src="@drawable/ic_back" />
+
+        <TextView
+            android:id="@+id/txtAvaliar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:text="avaliar"
+            android:textAlignment="center"
+            android:textColor="@color/colorWhite"
+            android:textSize="25sp" />
+
+    </RelativeLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:textSize="28sp"
+        android:textColor="@color/colorWhite"
+        android:textStyle="bold"
+        android:padding="15dp"
+        android:gravity="center"
+        android:text="Os alimentos servidos estão de acordo com o cardápio?"/>
+
+
+    <LinearLayout
+        android:id="@+id/avaliacao_q1_opc1"
+        android:layout_width="match_parent"
+        android:layout_height="65dp"
+        android:background="@drawable/shape_quadrado_borda"
+        android:layout_marginTop="30dp"
+        android:layout_marginBottom="15dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginLeft="20dp"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:layout_width="38dp"
+            android:layout_height="38dp"
+            android:layout_margin="12dp"
+            android:src="@drawable/aval_sim"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Sim"
+            android:textSize="26sp"
+            android:textColor="@color/colorWhite"
+            android:gravity="center_vertical"
+            android:layout_marginLeft="20dp"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/avaliacao_q1_opc2"
+        android:layout_width="match_parent"
+        android:layout_height="65dp"
+        android:background="@drawable/shape_quadrado_borda"
+        android:layout_marginTop="15dp"
+        android:layout_marginBottom="15dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginLeft="20dp"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:layout_width="38dp"
+            android:layout_height="38dp"
+            android:layout_margin="12dp"
+            android:src="@drawable/aval_nao"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Não"
+            android:textSize="26sp"
+            android:textColor="@color/colorWhite"
+            android:gravity="center_vertical"
+            android:layout_marginLeft="15dp"/>
+
+    </LinearLayout>
+
+</LinearLayout>

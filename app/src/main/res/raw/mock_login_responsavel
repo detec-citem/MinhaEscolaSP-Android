@@ -1,0 +1,31 @@
+{
+    "IdUsuario": 756807,
+    "NumeroCpf": "11111999999",
+    "numeroRg": "11111999",
+    "digitoRg": "9",
+    "Nome": "IOLANDA TEIXEIRA DA SILVA",
+    "Token": "dcfdee6ad1b94696a42f4b64a0306ba3",
+    "Perfis": [
+        {
+            "Codigo": 7,
+            "Nome": "Responsável",
+            "Nivel": 0,
+            "Comportamento": 5,
+            "AnosLetivos": [
+                2020,
+                2019,
+                2018,
+                2017,
+                2016,
+                2015,
+                2014,
+                2013,
+                2012,
+                2009,
+                2008
+            ]
+        }
+    ],
+    "Id": 756807,
+    "Login": "rg111119999sp"
+}

@@ -1,0 +1,149 @@
+<resources>
+
+    <string name="app_name">Minha Escola SP</string>
+    <string name="link_sed">https://sed.educacao.sp.gov.br/</string>
+
+    <string name="drawer_open">Abrir</string>
+    <string name="drawer_close">Fechar</string>
+
+    <!--Chave Maps-->
+
+    <string name="google_maps_key">AIzaSyC-jxeZ_a1rE-Eze84xJ4fl2LuYpO7I1BM</string>
+
+    <!--Strings do Menu-->
+
+    <string name="item_1">minha escola</string>
+    <string name="item_2">sobre mim</string>
+    <string name="item_3">horário de aulas</string>
+    <string name="item_4">notas</string>
+    <string name="item_5">frequência</string>
+    <string name="item_6">calendário</string>
+    <string name="item_7">alimentação</string>
+    <string name="item_8">carteirinha</string>
+    <string name="item_9">mensagens</string>
+    <string name="item_10">boletim</string>
+    <string name="item_12">compartilhar</string>
+    <string name="item_11">sair</string>
+
+    <!--Strings do Login-->
+
+    <string name="pA_txtLoginAluno">Número do RA + dígito do RA + sigla do estado do RA. Exemplo: 1234567890SP</string>
+    <string name="pA_txtSenhaAluno">Apenas os números da data de nascimento. Exemplo: 04052007</string>
+    <string name="pA_txtLoginResp">Número do RG + dígito do RG + sigla do estado do RG. Exemplo: RG123456789SP</string>
+    <string name="pA_txtSenhaResp">Número do cpf sem pontos e hífen. Exemplo: 1234567890</string>
+
+    <!--Strings da Avaliação Alimentar-->
+
+    <string name="alimentacao_titulo">alimentação</string>
+
+    <string name="alimentacao_questao_1">O que você achou da alimentação escolar hoje?</string>
+    <string name="alimentacao_questao_1_opcao_1">Estava ótima, adorei</string>
+    <string name="alimentacao_questao_1_opcao_2">Gostei</string>
+    <string name="alimentacao_questao_1_opcao_3">Não gostei</string>
+    <string name="alimentacao_questao_1_opcao_4">Não sei, não comi</string>
+
+    <string name="alimentacao_questao_2">O que precisamos melhorar?</string>
+    <string name="alimentacao_questao_2_opcao_1">Qualidade</string>
+    <string name="alimentacao_questao_2_opcao_2">Variedade do cardápio</string>
+    <string name="alimentacao_questao_2_opcao_3">Aparência</string>
+    <string name="alimentacao_questao_2_opcao_4">Outras sugestões</string>
+
+    <string name="alimentacao_questao_3">Por que você não consumiu a alimentação escolar hoje?</string>
+    <string name="alimentacao_questao_3_opcao_1">Não estava com fome</string>
+    <string name="alimentacao_questao_3_opcao_2">Não gostei do cardápio</string>
+    <string name="alimentacao_questao_3_opcao_3">Não gostei da aparência</string>
+    <string name="alimentacao_questao_3_opcao_4">Não foi servida</string>
+
+    <string name="alimentacao_sugestao">Gostaria de enviar uma mensagem?
+                                        Esse é seu espaço para fazer elogios,
+                                        sugestões ou críticas sobre a alimentação escolar!</string>
+
+    <string name="alimentacao_sugestao_escreva">escreva aqui</string>
+
+    <string name="alimentacao_concluir">Obrigado pela sua avaliação!
+                                        Estamos trabalhando para melhorar ainda mais a sua alimentação escolar!
+                                        Continue avaliando todos os dias, você só tem a ganhar!</string>
+    <string name="esqueceu_senha_texto">Acesse a Secretaria Escolar Digital (SED) e clique em \"Esqueci a senha\"</string>
+
+    <string name="descricao_share">Eu recomendo o app Minha Escola SP da Secretaria da Educação do Estado de São Paulo.
+                                   Nele é possível ver as notas, as faltas, a carteirinha digital,
+                                   avaliar a alimentação e muito mais!
+                                   Segue o link para baixar:
+                                   https://play.google.com/store/apps/details?id=br.gov.sp.educacao.minhaescola</string>
+
+    <!--Array de Strings para Estados no Login-->
+
+    <string-array name="estados">
+        <item>SP</item>
+        <item>AC</item>
+        <item>AL</item>
+        <item>AP</item>
+        <item>AM</item>
+        <item>BA</item>
+        <item>CE</item>
+        <item>DF</item>
+        <item>ES</item>
+        <item>GO</item>
+        <item>MA</item>
+        <item>MT</item>
+        <item>MS</item>
+        <item>MG</item>
+        <item>PA</item>
+        <item>PB</item>
+        <item>PR</item>
+        <item>PE</item>
+        <item>PI</item>
+        <item>RJ</item>
+        <item>RN</item>
+        <item>RS</item>
+        <item>RO</item>
+        <item>RR</item>
+        <item>SC</item>
+        <item>SE</item>
+        <item>TO</item>
+        <item></item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="update_message">Atualização Necessária</string>
+    <string name="update_now">Atualizar agora ?</string>
+    <string name="cancel">Cancelar</string>
+    <string name="year">ano</string>
+    <string name="turma">turma</string>
+    <string name="baixando_boletim">baixando boletim</string>
+
+
+    <string-array name="array_logad">
+        <item>Urbana</item>
+        <item>Rural</item>
+    </string-array>
+
+    <string-array name="array_materias_novotec">
+        <item>Administração</item>
+        <item>Logística</item>
+        <item>Marketing</item>
+        <item>Recursos Humanos</item>
+        <item>Informática</item>
+        <item>Informática para Internet</item>
+        <item>Redes de Computadores</item>
+        <item>Desenvolvimento de Sistemas</item>
+    </string-array>
+
+    <string-array name="array_localDif">
+        <item>Não está em área de localização diferenciada</item>
+        <item>Terra indígena</item>
+        <item>Área de Assentamento</item>
+        <item>Área onde se localiza comunidade remanescene de quilombos</item>
+    </string-array>
+
+    <string-array name="array_tipo_telefone">
+        <item>Residencial</item>
+        <item>Comercial</item>
+        <item>Celular</item>
+        <item>Recados</item>
+    </string-array>
+
+
+    <string name="default_notification_channel_id" translatable="false">fcm_default_channel</string>
+</resources>

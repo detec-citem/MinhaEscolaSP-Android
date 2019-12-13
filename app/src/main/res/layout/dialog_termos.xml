@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="440dp">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:paddingTop="15dp"
+            android:paddingLeft="25dp"
+            android:paddingRight="25dp"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="TERMO DE RESPONSABILIDADE"
+                android:textStyle="bold"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginBottom="30dp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="1.   Afirmo que as informações prestadas e selecionadas são de minha inteira responsabilidade, possibilitando a SED de utilizá-las em qualquer época, no amparo de seus direitos, não podendo ser alegada qualquer espécie de desconhecimento;"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginBottom="15dp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="2.   Informações inverídicas, mesmo que detectadas após a realização da matrícula do aluno, acarretarão em melhor adequação da inscrição e dos demais atos praticados pelo candidato;"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginBottom="15dp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="3.   Tenho conhecimento de que as informações pessoais prestadas neste ambiente virtual estão devidamente asseguradas;"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginBottom="15dp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="4.   Aceito receber informações sobre essa solicitação via e-mail e me responsabilizo pela verificação e acompanhamento da comunicação com a SED."
+                android:layout_gravity="center_horizontal"
+                android:layout_marginBottom="15dp"/>
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</RelativeLayout>

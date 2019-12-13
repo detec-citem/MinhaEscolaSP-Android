@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="br.gov.sp.educacao.minhaescola.view.SplashActivity"
+    android:background="@drawable/background1">
+
+    <ImageView
+        android:layout_width="160dp"
+        android:layout_height="150dp"
+        android:src="@drawable/logo1"
+        android:layout_marginTop="100dp"
+        android:id="@+id/splash_logo"
+        android:layout_centerHorizontal="true" />
+
+    <ImageView
+        android:layout_height="65dp"
+        android:layout_width="wrap_content"
+        android:layout_marginStart="7dp"
+        android:layout_marginEnd="7dp"
+        android:textStyle="bold"
+        android:layout_below="@+id/splash_logo"
+        android:fontFamily="casual"
+        android:src="@drawable/texto_minha_escola_sp"
+        android:gravity="center"
+        android:textColor="@color/colorWhite"
+        android:textSize="35sp"
+        android:id="@+id/splash_txt_app"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center"
+        android:layout_marginTop="50dp"
+        android:layout_marginBottom="10dp"
+        android:layout_alignParentBottom="true">
+
+        <ImageView
+            android:layout_width="150dp"
+            android:layout_height="110dp"
+            android:background="@drawable/new_logo_splash"
+            android:layout_marginBottom="5dp"/>
+
+    </LinearLayout>
+
+
+
+</RelativeLayout>

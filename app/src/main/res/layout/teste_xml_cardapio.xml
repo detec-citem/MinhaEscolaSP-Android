@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/azul4"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/cardapio_voltar"
+            android:layout_width="36dp"
+            android:layout_height="36dp"
+            android:layout_margin="12dp"
+            android:onClick="voltarMenu"
+            android:padding="5dp"
+            android:src="@drawable/ic_back" />
+
+        <TextView
+            android:id="@+id/txtNomeModulo"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:text="cardápio"
+            android:textAlignment="center"
+            android:textColor="@color/colorWhite"
+            android:textSize="25dp" />
+
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:layout_marginRight="5dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="20dp"
+        android:orientation="horizontal"
+        android:layout_weight="1">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:layout_weight="2"
+            android:background="@drawable/shape_quadrado_bordafina"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="05/11"
+                android:textStyle="bold"
+                android:gravity="center"
+                android:textColor="@color/caldroid_white"
+                android:textSize="18sp"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Segunda"
+                android:gravity="center"
+                android:textColor="@color/caldroid_white"
+                android:textSize="17sp"/>
+
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:padding="5dp"
+            android:layout_marginLeft="3dp"
+            android:layout_marginRight="3dp"
+            android:background="@drawable/shape_quadrado_bordafina"
+            android:gravity="center"
+            android:textColor="@color/caldroid_white"
+            android:textSize="16sp"
+            android:text="Pernil de cordeiro"/>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="2"
+            android:background="@drawable/shape_quadrado_bordafina">
+
+            <RelativeLayout
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                android:layout_centerInParent="true"
+                android:layout_margin="5dp"
+                android:elevation="2dp"
+                android:background="@drawable/shape_btn_avaliar_aval_2"
+                android:gravity="center_horizontal">
+
+                <ImageView
+                    android:id="@+id/cardp_aval"
+                    android:layout_width="40dp"
+                    android:layout_height="40dp"
+                    android:layout_marginTop="7dp"
+                    android:layout_centerHorizontal="true"
+                    android:src="@drawable/img_aval_alim" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:textAlignment="center"
+                    android:textColor="@color/caldroid_white"
+                    android:textStyle="bold"
+                    android:textSize="13sp"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/cardp_aval"
+                    android:text="Avaliar"/>
+
+            </RelativeLayout>
+
+        </RelativeLayout>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:layout_marginRight="5dp"
+        android:layout_marginLeft="5dp"
+        android:orientation="horizontal"
+        android:layout_marginTop="8dp"
+        android:layout_weight="1">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:layout_weight="2"
+            android:background="@drawable/shape_quadrado_bordafina"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="06/11"
+                android:textStyle="bold"
+                android:gravity="center"
+                android:textColor="@color/caldroid_white"
+                android:textSize="18sp"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Terça"
+                android:gravity="center"
+                android:textColor="@color/caldroid_white"
+                android:textSize="17sp"/>
+
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:padding="5dp"
+            android:layout_marginLeft="3dp"
+            android:layout_marginRight="3dp"
+            android:background="@drawable/shape_quadrado_bordafina"
+            android:gravity="center"
+            android:textColor="@color/caldroid_white"
+            android:textSize="16sp"
+            android:text="Lapin à la moutarde"/>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="2"
+            android:background="@drawable/shape_quadrado_bordafina">
+
+            <RelativeLayout
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                android:layout_centerInParent="true"
+                android:layout_margin="5dp"
+                android:elevation="2dp"
+                android:background="@drawable/shape_btn_avaliar_inativo"
+                android:gravity="center_horizontal">
+
+                <ImageView
+                    android:id="@+id/cardp_aval1"
+                    android:layout_width="40dp"
+                    android:layout_height="40dp"
+                    android:layout_marginTop="7dp"
+                    android:layout_centerHorizontal="true"
+                    android:src="@drawable/img_aval_alim" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:textAlignment="center"
+                    android:textColor="@color/caldroid_white"
+                    android:textStyle="bold"
+                    android:textSize="13sp"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/cardp_aval1"
+                    android:text="Avaliar"/>
+
+            </RelativeLayout>
+
+        </RelativeLayout>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:layout_marginRight="5dp"
+        android:layout_marginLeft="5dp"
+        android:orientation="horizontal"
+        android:layout_marginTop="8dp"
+        android:layout_weight="1">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:layout_weight="2"
+            android:background="@drawable/shape_quadrado_bordafina"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="07/11"
+                android:textStyle="bold"
+                android:gravity="center"
+                android:textColor="@color/caldroid_white"
+                android:textSize="18sp"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Quarta"
+                android:gravity="center"
+                android:textColor="@color/caldroid_white"
+                android:textSize="17sp"/>
+
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:padding="5dp"
+            android:layout_marginLeft="3dp"
+            android:layout_marginRight="3dp"
+            android:background="@drawable/shape_quadrado_bordafina"
+            android:gravity="center"
+            android:textColor="@color/caldroid_white"
+            android:textSize="16sp"
+            android:text="Escargots"/>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="2"
+            android:background="@drawable/shape_quadrado_bordafina">
+
+            <RelativeLayout
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                android:layout_centerInParent="true"
+                android:layout_margin="5dp"
+                android:elevation="2dp"
+                android:background="@drawable/shape_btn_avaliar_inativo"
+                android:gravity="center_horizontal">
+
+                <ImageView
+                    android:id="@+id/cardp_aval2"
+                    android:layout_width="40dp"
+                    android:layout_height="40dp"
+                    android:layout_marginTop="7dp"
+                    android:layout_centerHorizontal="true"
+                    android:src="@drawable/img_aval_alim" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:textAlignment="center"
+                    android:textColor="@color/caldroid_white"
+                    android:textStyle="bold"
+                    android:textSize="13sp"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/cardp_aval2"
+                    android:text="Avaliar"/>
+
+            </RelativeLayout>
+
+        </RelativeLayout>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:layout_marginRight="5dp"
+        android:layout_marginLeft="5dp"
+        android:orientation="horizontal"
+        android:layout_marginTop="8dp"
+        android:layout_weight="1">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:layout_weight="2"
+            android:background="@drawable/shape_quadrado_bordafina"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="08/11"
+                android:textStyle="bold"
+                android:gravity="center"
+                android:textColor="@color/caldroid_white"
+                android:textSize="18sp"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Quinta"
+                android:gravity="center"
+                android:textColor="@color/caldroid_white"
+                android:textSize="17sp"/>
+
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:padding="5dp"
+            android:layout_marginLeft="3dp"
+            android:layout_marginRight="3dp"
+            android:background="@drawable/shape_quadrado_bordafina"
+            android:gravity="center"
+            android:textColor="@color/caldroid_white"
+            android:textSize="16sp"
+            android:text="Steak tartare"/>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="2"
+            android:background="@drawable/shape_quadrado_bordafina">
+
+            <RelativeLayout
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                android:layout_centerInParent="true"
+                android:layout_margin="5dp"
+                android:elevation="2dp"
+                android:background="@drawable/shape_btn_avaliar_inativo"
+                android:gravity="center_horizontal">
+
+                <ImageView
+                    android:id="@+id/cardp_aval3"
+                    android:layout_width="40dp"
+                    android:layout_height="40dp"
+                    android:layout_marginTop="7dp"
+                    android:layout_centerHorizontal="true"
+                    android:src="@drawable/img_aval_alim" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:textAlignment="center"
+                    android:textColor="@color/caldroid_white"
+                    android:textStyle="bold"
+                    android:textSize="13sp"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/cardp_aval3"
+                    android:text="Avaliar"/>
+
+            </RelativeLayout>
+
+        </RelativeLayout>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:layout_marginRight="5dp"
+        android:layout_marginLeft="5dp"
+        android:orientation="horizontal"
+        android:layout_marginTop="8dp"
+        android:layout_weight="1"
+        android:layout_marginBottom="10dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:layout_weight="2"
+            android:background="@drawable/shape_quadrado_bordafina"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="09/11"
+                android:textStyle="bold"
+                android:gravity="center"
+                android:textColor="@color/caldroid_white"
+                android:textSize="18sp"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Sexta"
+                android:gravity="center"
+                android:textColor="@color/caldroid_white"
+                android:textSize="17sp"/>
+
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:padding="5dp"
+            android:layout_marginLeft="3dp"
+            android:layout_marginRight="3dp"
+            android:background="@drawable/shape_quadrado_bordafina"
+            android:gravity="center"
+            android:textColor="@color/caldroid_white"
+            android:textSize="16sp"
+            android:text="Escalope ao molho madeira"/>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="2"
+            android:background="@drawable/shape_quadrado_bordafina">
+
+            <RelativeLayout
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                android:layout_centerInParent="true"
+                android:layout_margin="5dp"
+                android:elevation="2dp"
+                android:background="@drawable/shape_btn_avaliar_inativo"
+                android:gravity="center_horizontal">
+
+                <ImageView
+                    android:id="@+id/cardp_ava4"
+                    android:layout_width="40dp"
+                    android:layout_height="40dp"
+                    android:layout_marginTop="7dp"
+                    android:layout_centerHorizontal="true"
+                    android:src="@drawable/img_aval_alim" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:textAlignment="center"
+                    android:textColor="@color/caldroid_white"
+                    android:textStyle="bold"
+                    android:textSize="13sp"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/cardp_ava4"
+                    android:text="Avaliar"/>
+
+            </RelativeLayout>
+
+        </RelativeLayout>
+
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2f94ff</color>
+    <color name="colorPrimaryDark">#0a3e78</color>
+    <color name="colorAccent">#31c4f5</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorWhite2">#73ffffff</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorYellow">#ffcc00</color>
+    <color name="colorRed">#ff6666</color>
+
+    <color name="sombra">#43000000</color>
+
+    <color name="sombra2">#6F000000</color>
+
+    <color name="cinza">#949494</color>
+
+    <color name="fundoSpn">#05e1fa</color>
+
+    <color name="azulSpn">#006099</color>
+
+    <color name="colorGreen">#39b745</color>
+
+    <color name="colorGreenLight">#5ef440</color>
+
+    <color name="azul_splash">#32c8fe</color>
+
+    <color name="colorNomeCart">#2f94ff</color>
+
+    <color name="azul_background_minha_escola">#0277BD</color>
+    <color name="azul_background_sobre_mim">#0288D1</color>
+    <color name="azul_horario_aula">#039BE5</color>
+    <color name="azul_minhas_notas">#03A9F4</color>
+    <color name="azul_frequencia">#35bbf7</color>
+    <color name="azul_calendario">#60cdff</color>
+    <color name="azul_background_alimentacao_mensagem">#81D4FA</color>
+    <color name="azul_carteirinha">#76d3fd</color>
+    <color name="azul_mensagem">#35bbf7</color>
+    <color name="azul_boletim">#03A9F4</color>
+    <color name="azul_compartilhar">#029ce3</color>
+    <color name="azul_sair">#028bca</color>
+
+    <color name="azul0">#00588c</color>
+    <color name="azul1">#0277BD</color>
+    <color name="azul2">#0288D1</color>
+    <color name="azul3">#039BE5</color>
+    <color name="azul4">#03A9F4</color>
+    <color name="azul5">#35bbf7</color>
+    <color name="azul6">#60cdff</color>
+    <color name="azul7">#81D4FA</color>
+    <color name="azul8">#2A9BC5</color>
+
+    <color name="sombra_branco">#5bffffff</color>
+    <color name="sombra_branco_2">#36ffffff</color>
+
+    <!-- Calendario -->
+
+    <!-- Título mês -->
+
+    <color name="vermelho_titulo_calendario">#ED1C24</color>
+
+    <!-- Dia Letivo -->
+
+    <color name="verde_dia_letivo">#55D990</color>
+    <color name="verde_texto_dia_letivo">#238100</color>
+
+    <color name="verde_dia_letivo2">#48c27f</color>
+    <color name="verde_texto_dia_letivo2">#ffffff</color>
+
+    <!-- Dia não letivo -->
+
+    <color name="rose_dia_nao_letivo">#FDA8AA</color>
+    <color name="vermelho_texto_dia_nao_letivo">#FF0006</color>
+
+    <!-- Dia com Avaliação -->
+
+    <color name="roxo_dia_avaliacao">#AA00FF</color>
+    <color name="preto_texto_dia_avaliacao">#343F4B</color>
+
+    <color name="color_opc_texto">#0444b9</color>
+
+</resources>

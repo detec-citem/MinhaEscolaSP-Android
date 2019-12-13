@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginBottom="10dp"
+        android:layout_marginRight="10dp"
+        android:animateLayoutChanges="true"
+        android:gravity="center_vertical"
+        android:id="@+id/nota_linearItem">
+
+        <Button
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:background="@drawable/shape_circulo_branco"
+            android:text="9,0"
+            android:textSize="30dp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="5dp"
+            android:textColor="@color/azul_minhas_notas"
+            android:gravity="center"
+            android:id="@+id/lvNotas_btn" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="25dp"
+            android:gravity="center_vertical"
+            android:textSize="19dp"
+            android:textColor="@color/colorWhite"
+            android:text="matemática"
+            android:id="@+id/lvNotas_txt" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/notas_linearComposicao"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginLeft="15dp"
+        android:animateLayoutChanges="true"
+        android:visibility="gone">
+
+    </LinearLayout>
+
+</LinearLayout>

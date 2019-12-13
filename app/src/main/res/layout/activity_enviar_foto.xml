@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true">
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:id="@+id/cart_layoutPai"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:context="br.gov.sp.educacao.minhaescola.view.EnviarFotoActivity">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:id="@+id/cart_layoutAviso"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@color/azul_carteirinha"
+                android:orientation="vertical"
+                android:visibility="visible">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                    <ImageView
+                        android:id="@+id/ivVoltar"
+                        android:layout_width="36dp"
+                        android:layout_height="36dp"
+                        android:layout_margin="12dp"
+                        android:onClick="voltarFotoMenu"
+                        android:padding="5dp"
+                        android:src="@drawable/ic_back" />
+
+                    <TextView
+                        android:id="@+id/txtAvaliar"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:text="enviar foto"
+                        android:textAlignment="center"
+                        android:textColor="@color/colorWhite"
+                        android:textSize="25dp" />
+
+                </RelativeLayout>
+
+                <TextView
+                    android:id="@+id/cart_txtAviso1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="50dp"
+                    android:layout_marginTop="50dp"
+                    android:layout_marginRight="50dp"
+                    android:background="@drawable/shape_retangulo_borda"
+                    android:gravity="center"
+                    android:text="não há foto aprovada!"
+                    android:textAlignment="center"
+                    android:textColor="@color/colorWhite"
+                    android:textSize="30sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/cart_txtAviso2"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="40dp"
+                    android:text="já enviou a foto?"
+                    android:textAlignment="center"
+                    android:textColor="@color/colorWhite"
+                    android:textSize="22sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/cart_txtAviso3"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginTop="8dp"
+                    android:layout_marginRight="20dp"
+                    android:text="verifique na secretaria da sua escola o andamento da aprovação."
+                    android:textAlignment="center"
+                    android:textColor="@color/colorWhite"
+                    android:textSize="22sp" />
+
+                <TextView
+                    android:id="@+id/cart_txtAviso4"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="40dp"
+                    android:text="ainda não enviou?"
+                    android:textAlignment="center"
+                    android:textColor="@color/colorWhite"
+                    android:textSize="22sp"
+                    android:textStyle="bold" />
+
+                <Button
+                    android:id="@+id/btnSelecionarFoto"
+                    android:layout_width="180dp"
+                    android:layout_height="55dp"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="24dp"
+                    android:background="@drawable/shape_btn_enviafoto"
+                    android:onClick="goSelecaoFoto"
+                    android:text="Enviar Foto"
+                    android:textColor="@color/colorWhite"
+                    android:textSize="16sp"
+                    android:textStyle="bold" />
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <RelativeLayout
+            android:id="@+id/cart_sombra"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/sombra"
+            android:visibility="gone">
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/cart_layoutSelecionar"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:visibility="gone">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_above="@+id/linear_opc"
+                android:layout_marginBottom="5dp"
+                android:onClick="dismissSelecao">
+
+            </RelativeLayout>
+
+            <LinearLayout
+                android:id="@+id/linear_opc"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_alignParentBottom="true"
+                android:layout_weight="5"
+                android:background="@color/colorWhite">
+
+                <RelativeLayout
+                    android:id="@+id/cart_btnCamera"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_margin="35dp"
+                    android:layout_weight="1"
+                    android:onClick="selecionarFoto"
+                    android:orientation="vertical">
+
+                    <ImageView
+                        android:id="@+id/cart_imgCamera"
+                        android:layout_width="65dp"
+                        android:layout_height="65dp"
+                        android:layout_centerInParent="true"
+                        android:src="@drawable/cart_camera"
+                        android:textColor="@color/colorWhite" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/cart_imgCamera"
+                        android:layout_centerHorizontal="true"
+                        android:layout_marginTop="5dp"
+                        android:text="Camera"
+                        android:textColor="@color/colorBlack"
+                        android:textSize="16dp" />
+
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:id="@+id/cart_btnGaleria"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_margin="35dp"
+                    android:layout_weight="1"
+                    android:onClick="selecionarFoto"
+                    android:orientation="vertical">
+
+                    <ImageView
+                        android:id="@+id/cart_imgGaleria"
+                        android:layout_width="65dp"
+                        android:layout_height="65dp"
+                        android:layout_centerInParent="true"
+                        android:layout_marginTop="50dp"
+                        android:src="@drawable/cart_galeria"
+                        android:textColor="@color/colorWhite" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/cart_imgGaleria"
+                        android:layout_centerHorizontal="true"
+                        android:layout_marginTop="5dp"
+                        android:text="Galeria"
+                        android:textColor="@color/colorBlack"
+                        android:textSize="16dp" />
+
+                </RelativeLayout>
+
+            </LinearLayout>
+
+        </RelativeLayout>
+
+    </RelativeLayout>
+
+</ScrollView>

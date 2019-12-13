@@ -1,0 +1,15 @@
+<paths>
+
+    <external-path
+        name="Pìctures"
+        path="file:///storage/emulated/0/Pictures" />
+
+    <external-path
+        name="Pìctures"
+        path="Pictures/" />
+
+    <external-path
+        name="Download"
+        path="Download/MinhaEscola" />
+
+</paths>
